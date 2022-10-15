@@ -1,6 +1,6 @@
 ---
-title: 'Seascape genomics in the Florida Keys'
-subtitle: 'This is a demo'
+title: 'Seascape genomics'
+subtitle: 'Finding environmental gradients driving genetic divergence'
 date: 2018-06-30 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
 featured_image: '/images/demo/demo-square.jpg'
@@ -8,7 +8,7 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ![](/images/demo/demo-landscape.jpg)
 
-## Cryptic genetic divergence
+## Cryptic genetic divergence in the Florida Keys
 
 This page is a demo that shows everything you can do inside portfolio and blog posts.
 
@@ -78,7 +78,7 @@ Change the number inside the 'columns' setting to create different types of gall
 
 ---
 
-### Image carousels
+### Adaptation to water quality gradients within cryptic lineages
 
 Here's another gallery with only one column, which creates a carousel slide-show instead.
 
@@ -89,7 +89,7 @@ A nice little feature: the carousel only advances when it is in view, so your vi
 	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
 
-### What about videos?
+### Seascape genomics in St. Croix, USVI
 
 Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
 
