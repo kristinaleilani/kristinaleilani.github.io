@@ -2,8 +2,8 @@ basic_settings:
   site_title: Kristina L. Black
   favicon_image: /images/Millepora1.png
 
-header_settings:
-  logo_image: 
+header_settings: 
+  logo_image:  /images/Black_Kristina_RecoveredReef_Australia_Dec2019.jpg
   logo_width: 200
 
 menu_settings:
