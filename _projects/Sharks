@@ -1,5 +1,5 @@
 ---
-title: 'A novel approach to find shark nurseries'
+title: 'A novel approach to find shark nurseres'
 subtitle: 'This is a demo'
 date: 2018-06-30 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
@@ -8,7 +8,7 @@ featured_image: '/images/Shark_close.JPG'
 
 ![](/images/demo/demo-landscape.jpg)
 
-## Epigenetic Clock
+## Epigenetic clock
 
 This page is a demo that shows everything you can do inside portfolio and blog posts.
 
@@ -50,7 +50,7 @@ You can throw in some horizontal rules too:
 
 ---
 
-### Predicting age structure from eDNA
+### Mapping age structure with eDNA
 
 Here's a really neat custom feature we added – galleries:
 
@@ -78,7 +78,7 @@ Change the number inside the 'columns' setting to create different types of gall
 
 ---
 
-### Applications in the field
+### Image carousels
 
 Here's another gallery with only one column, which creates a carousel slide-show instead.
 
