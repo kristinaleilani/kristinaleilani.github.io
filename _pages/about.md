@@ -7,7 +7,7 @@ featured_image: /images/Headshot_CaneBay.JPG
 
 ## Features
 
-We've packed Personal full of powerful features to help showcase your work:
+PhD Candidate in the [Matz Lab](https://matzlab.weebly.com/) at UT-Austin.
 
 * Beautiful, minimal design
 * Large header image and single column post layout
