@@ -5,7 +5,7 @@ description: Personal is the perfect theme for developers, designers and other c
 featured_image: /images/Headshot_CaneBay.JPG
 ---
 
-## Education:
+## Education
 
 PhD Candidate (expected 2024) in the [Matz Lab](https://matzlab.weebly.com/) at the University of Texas at Austin
 * Dissertation topic: Environmental drivers of genetic adaptation in corals
@@ -17,7 +17,7 @@ B.S. (2014) in Zoology w/ a minor in philosophy from the University of Oklahoma
 * Thesis topic: Small mammal diversity across an urban gradient
 
 
-## Get Personal
+## Reach out
 
 Whether you're looking for a research collaborator a dive buddy, feel free to send me an email and/or follow me on social media.
 
