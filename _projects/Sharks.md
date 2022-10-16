@@ -6,7 +6,7 @@ description: This page is a demo that shows everything you can do inside portfol
 featured_image: '/images/Shark_close.JPG'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/Shark_close.JPG)
 
 ## Epigenetic clock
 
