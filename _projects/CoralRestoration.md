@@ -6,7 +6,7 @@ description: This page is a demo that shows everything you can do inside portfol
 featured_image: '/images/ELP_closeshot.jpg'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/ELP_closeshot.jpg)
 
 ## Parental effects to improve outplant fitness
 
