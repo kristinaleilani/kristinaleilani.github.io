@@ -1,6 +1,6 @@
 ---
 title: Welcome!
-subtitle: My research is focused on... I am interested in... I'm always glad to talk about research, increasing DEI in STEM,... If you're interested in collaborating or looking for a dive buddy, feel free to send me an email and/or follow me on social media.
+subtitle: My research is focused on... I am interested in... I'm always glad to talk about research, increasing DEI in STEM,... 
 description: Personal is the perfect theme for developers, designers and other creatives.
 featured_image: /images/Headshot_CaneBay.JPG
 ---
@@ -20,6 +20,6 @@ B.S. (2014) in Zoology from the University of Oklahoma
 
 ## Get Personal
 
-Personal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
+If you're interested in collaborating or looking for a dive buddy, feel free to send me an email and/or follow me on social media.
 
 <a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
