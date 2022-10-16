@@ -23,7 +23,7 @@ I teach laboratory procedures such as:
 
 
 **Evolution**
-I've TA'd one semester of this upper-division lecture/discussion course at the University of Texas at Austin.
+TA for one semester of this upper-division lecture/discussion course at the University of Texas at Austin.
 
 I led discussions on
 
