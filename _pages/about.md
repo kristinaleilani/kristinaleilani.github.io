@@ -5,8 +5,8 @@ description: Personal is the perfect theme for developers, designers and other c
 featured_image: /images/Apal_CaneBay.jpg
 ---
 
-<div class="gallery" data-columns="1">
-	<img src="/images/Headshot_CaneBay.JPG">
+<div class="gallery" data-columns="2">
+	<img src="/images/Headshot_CaneBay2.JPG">
 </div>
 
 ## Education
