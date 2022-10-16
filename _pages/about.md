@@ -1,6 +1,6 @@
 ---
 title: Welcome!
-subtitle: Summary about research interests
+subtitle: My research is focused on... I am interested in... I'm always glad to talk about research, increasing DEI in STEM,... If you're interested in collaborating or looking for a dive buddy, feel free to send me an email and/or follow me on social media.
 description: Personal is the perfect theme for developers, designers and other creatives.
 featured_image: /images/Headshot_CaneBay.JPG
 ---
