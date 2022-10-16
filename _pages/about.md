@@ -7,7 +7,7 @@ featured_image: /images/Headshot_CaneBay.JPG
 
 ## Education:
 
-PhD Candidate in the [Matz Lab](https://matzlab.weebly.com/) at the University of Texas at Austin
+PhD Candidate (expected 2024) in the [Matz Lab](https://matzlab.weebly.com/) at the University of Texas at Austin
 * Dissertation topic: Environmental adaptation of corals
 
 M.S. (2017) in Wildlife Ecology from the University of Wisconsin-Madison
@@ -20,6 +20,6 @@ B.S. (2014) in Zoology from the University of Oklahoma
 
 ## Get Personal
 
-If you're interested in collaborating or looking for a dive buddy, feel free to send me an email and/or follow me on social media.
+Whether you're looking for a research collaborator a dive buddy, feel free to send me an email and/or follow me on social media.
 
 <a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
