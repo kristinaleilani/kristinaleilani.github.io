@@ -1,8 +1,8 @@
 ---
 title: About me
-subtitle: Personal is the perfect theme for developers, designers and other creatives.
+subtitle: PhD Candidate in the [Matz Lab](https://matzlab.weebly.com/) at UT-Austin.
 description: Personal is the perfect theme for developers, designers and other creatives.
-featured_image: /images/demo/about.jpg
+featured_image: /images/Headshot_CaneBay.JPG
 ---
 
 ## Features
