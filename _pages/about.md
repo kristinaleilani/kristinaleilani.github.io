@@ -1,29 +1,22 @@
 ---
-title: About me
-subtitle: PhD Candidate in the [Matz Lab](https://matzlab.weebly.com/) at UT-Austin.
+title: Welcome!
+subtitle: Summary about research interests
 description: Personal is the perfect theme for developers, designers and other creatives.
 featured_image: /images/Headshot_CaneBay.JPG
 ---
 
-## Features
+## Education:
 
-PhD Candidate in the [Matz Lab](https://matzlab.weebly.com/) at UT-Austin.
+PhD Candidate in the [Matz Lab](https://matzlab.weebly.com/) at the University of Texas at Austin
+* Dissertation topic: Environmental adaptation of corals
 
-* Beautiful, minimal design
-* Large header image and single column post layout
-* Responsive – works perfectly on all devices
-* Portfolio post type
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers k
+M.S. (2017) in Wildlife Ecology from the University of Wisconsin-Madison
+* Thesis topic: Phylogeography of red foxes in the Great Lakes Region
+
+B.S. (2014) in Zoology from the University of Oklahoma
+* Minor in Philosophy
+* Thesis topic: Small mammal diversity across an urban gradient
+
 
 ## Get Personal
 
