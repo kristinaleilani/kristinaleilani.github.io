@@ -68,7 +68,9 @@ Blurb about why I love mentoring
 
 **Diversity, equity, and inclusion in coral science,** Speaker at a workshop for students and early-career researchers at the International Coral Reef Symposium in Bremen, Germany (2022).
 
-**Navigating life in grad school,** Speaker at a workshop for undergraduates hosted by Minorities in Biological Research at UT-Austin (2022).
+**Navigating life in grad school,** Speaker at a workshop for undergraduates hosted by [Minorities in Biological Research](https://minoritiesinbiologicalresearch.weebly.com/) at UT-Austin (2022).
+
+**Getting into Marine Biology,** Compiled resources to guide underrepresented minorities or first-generation in STEM to break into the field of marine biology. Hosted by [Minorities in Biological Research](https://minoritiesinbiologicalresearch.weebly.com/resources.html) at UT-Austin (2022).
 
 **SCTLD Strike Team,** Certified for treatment of Stony Coral Tissue Loss Disease by [The Virgin Islands Coral Reef Advisory Group](https://www.vicoraldisease.org/sctld-strike-teams) (2021).
 
