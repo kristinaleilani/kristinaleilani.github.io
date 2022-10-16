@@ -23,7 +23,7 @@ We've packed Personal full of powerful features to help showcase your work:
 * Built with SEO best practices in mind
 * Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
 * Works with GitHub Pages
-* Updated and supported by the developers
+* Updated and supported by the developers k
 
 ## Get Personal
 
