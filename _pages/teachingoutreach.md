@@ -70,7 +70,9 @@ Blurb about why I love mentoring
 
 **Navigating life in grad school,** Speaker at a workshop for undergraduates hosted by Minorities in Biological Research at UT-Austin (2022).
 
+**SCTLD Strike Team,** Certified for treatment of Stony Coral Tissue Loss Disease by [The Virgin Islands Coral Reef Advisory Group](https://www.vicoraldisease.org/sctld-strike-teams) (2021).
+
 **Coral biology and reef restoration,** Speaker at a workshop for high schoolers through the [Orutsararmiut Native Council](https://orutsararmiut.org/) in Bethel, AK (2021).
 
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
+
 
