@@ -7,4 +7,4 @@ featured_image: /images/Sample_massivePorites_2.JPG
 
 {% include contact-form.html %}
 
-I would love to hear from you if you're interested in collaborating, talking aobut research, or have questions!
+I would love to hear from you if you're interested in collaborating, talking about research, or have questions!
