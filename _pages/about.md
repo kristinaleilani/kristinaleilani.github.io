@@ -2,8 +2,12 @@
 title: Welcome!
 subtitle: My research is focused on... I am interested in... I'm always glad to talk about research, increasing DEI in STEM,... 
 description: Personal is the perfect theme for developers, designers and other creatives.
-featured_image: /images/Headshot_CaneBay.JPG
+featured_image: /images/Apal_CaneBay.jpg
 ---
+
+<div class="gallery" data-columns="1">
+	<img src="/images/Headshot_CaneBay.JPG">
+</div>
 
 ## Education
 
