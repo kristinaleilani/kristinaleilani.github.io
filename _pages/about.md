@@ -17,7 +17,7 @@ B.S. (2014) in Zoology w/ a minor in philosophy from the University of Oklahoma
 * Thesis topic: Small mammal diversity across an urban gradient
 
 
-## Reach out
+## Get in touch
 
 Whether you're looking for a research collaborator a dive buddy, feel free to send me an email and/or follow me on social media.
 
