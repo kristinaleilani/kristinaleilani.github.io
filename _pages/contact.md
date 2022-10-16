@@ -1,10 +1,10 @@
 ---
 title: Contact
-subtitle: Personal comes with a built-in contact form that's free and easy to set up.
+subtitle: I would love to hear from you if you're interested in collaborating, talking about research, or have questions!
 description: Personal is the perfect theme for developers, designers and other creatives.
 featured_image: /images/Sampling_massivePorites_3.JPG
 ---
 
 {% include contact-form.html %}
 
-I would love to hear from you if you're interested in collaborating, talking about research, or have questions!
+Or you can email me at kblack@utexas.edu
