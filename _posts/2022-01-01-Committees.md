@@ -14,25 +14,19 @@ and the
 
 We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
 
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-In 2020, I co-founded this committee made up of graduate students researching coral across the globe. 
-We developed original [purpose and philosophy statements](https://www.coralreefstudents.org/edi) that
-constitute our chapter’s stance on DEI issues. We are currently developing workshops and informative materials 
-to disseminate opportunities and resources for underrepresented minorities in our field.
+In 2020, we co-founded this committee made up of graduate students researching coral across the globe. We developed original [purpose and philosophy 
+statements](https://www.coralreefstudents.org/edi) that constitute our chapter’s stance on DEI issues. We are currently developing workshops and 
+informative materials to disseminate opportunities and resources for underrepresented minorities in coral science.
 
-You can create lists:
+Our primary issues of concern incude:
 
-* Simple bulleted lists
-* Like this one
-* Are cool
+* **Parachute science** (or scientific colonialism), where researchers drop down from the wealthy Western world and exploit foreign communities for fieldwork
+* **Institutional Biases** including racism, sexism, etc. in major decisions such as hiring/funding...
+* **Leaky pipelines,** or the progressive underrepresentation of minorities in STEM
+* **Living wages** to combat insufficient incomes for interns, students, and early career scientists
 
-And:
 
-1. Numbered lists
-2. Like this other one
-3. Are great too
-
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
+If you are interested in contributing to our growing of available resources, we'd love to work with you. Please email me or the chapter at icrs.students@gmail.com
 
 > “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
 
