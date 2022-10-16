@@ -56,8 +56,8 @@ Blurb about why I love mentoring
 
 
 <div class="gallery" data-columns="3">
-	<img src="/images/demo/demo-portrait.jpg">
-	<img src="/images/demo/demo-landscape.jpg">
+	<img src="/images/ELP_closeshot.jpg">
+	<img src="/images/SCTLD_treating.JPG">
 	<img src="/images/demo/demo-square.jpg">
 	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
