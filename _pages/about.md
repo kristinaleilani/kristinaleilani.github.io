@@ -8,13 +8,12 @@ featured_image: /images/Headshot_CaneBay.JPG
 ## Education:
 
 PhD Candidate (expected 2024) in the [Matz Lab](https://matzlab.weebly.com/) at the University of Texas at Austin
-* Dissertation topic: Environmental adaptation of corals
+* Dissertation topic: Environmental drivers of genetic adaptation in corals
 
 M.S. (2017) in Wildlife Ecology from the University of Wisconsin-Madison
 * Thesis topic: Phylogeography of red foxes in the Great Lakes Region
 
-B.S. (2014) in Zoology from the University of Oklahoma
-* Minor in Philosophy
+B.S. (2014) in Zoology w/ a minor in philosophy from the University of Oklahoma
 * Thesis topic: Small mammal diversity across an urban gradient
 
 
