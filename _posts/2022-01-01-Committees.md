@@ -1,6 +1,5 @@
 ---
 title: 'Committees and working groups'
-date: 2022-01-01 00:00:00
 description: Explanationa for why this is important
 featured_image: '/images/demo/demo-square.jpg'
 ---
