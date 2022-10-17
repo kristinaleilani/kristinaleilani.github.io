@@ -17,7 +17,7 @@ menu_settings:
     - title: 'Teaching and Outreach'
       url: '/teachingoutreach/'
     - title: 'DEI'
-      url: '/dei/'
+      url: '/DEI/'
     - title: 'Contact'
       url: '/contact'
 
