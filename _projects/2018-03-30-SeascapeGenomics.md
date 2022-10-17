@@ -6,47 +6,39 @@ description: This page is a demo that shows everything you can do inside portfol
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/FLKeys_bathymetry.png)
 
 ## Cryptic genetic divergence in the Florida Keys
 
 As coral reefs in the Florida Keys rapidly decline, reef restoration efforts face the challenge of matching outplanted corals to the environment where they are most likely to survive. Using 2bRAD sequencing, we developed a large genomic dataset for two ubiquitous coral species- _Porites astreoides_ and _Agaricia agaricites_ - across 65 reef sites covering the whole Florida reef tract.
 
-We observed that both species are composed of three cryptic lineages across the Florida reef tract. Cryptic genetic diversity that is optimistic for facilitating environmental adaptation on a declining reef. Nonetheless, cryptic lineages must be protected in order to maximize adaptive potential and support phenotypic resilience.
+We're finding that both species are composed of cryptic lineages across the Florida reef tract. Cryptic genetic diversity is optimistic for facilitating environmental adaptation on a declining reef. Nonetheless, cryptic lineages must be protected in order to maximize adaptive potential and support phenotypic resilience.
 
 
 ---
 
 ### Adaptive divergence by depth
 
-Here's a really neat custom feature we added – galleries:
+Interestingly, the cryptic lineages often occur sympatrically but have markedly different depth distributions. We're finding that depth plays definitive roles in driving
+genetic divergence in both species, although the signatures of selection are much stronger in _A. agaricites_ than _P. astreoides_. 
 
-<div class="gallery" data-columns="3">
-	<img src="/images/demo/demo-portrait.jpg">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-square.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
+<div class="gallery" data-columns="1">
+	<img src="/images/Depth_diverge.png">
+
 </div>
+_Pictured above: Range of depths inhabited by each genetic lineage for two coral species in the Florida Keys_
 
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
-
-
-*See what we did there? Code and syntax highlighting is built-in too!*
-
-Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
 
 ---
 
 ### Adaptation to water quality gradients within cryptic lineages
 
-Here's another gallery with only one column, which creates a carousel slide-show instead.
-
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
+Surprisingly, the cryptic lineages within each species also appear to adapt to local environments on their own. In _A. agaricites_, nitrogen and cold temperatures appear to drive divergence within lineages. While in _P. astreoides_, temperature extremes appear to be important drivers. 
 
 <div class="gallery" data-columns="1">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
+	<img src="/images/TNByearly_range.png">
 </div>
+_Pictured above: Map of the yearly range of total nitrogen in the Florida Keys_
 
 ### Seascape genomics in St. Croix, USVI
 
@@ -55,12 +47,10 @@ A nice little feature: the carousel only advances when it is in view, so your vi
 	<img src="/images/The_wall.JPG">
 	<img src="/images/Isaacs_beach.jpg">
 </div>
+_Photo 1: "The Wall" at Cane Bay, Photo 2: Isaac's Bay in St. Croix, USVI_
+
 ---
 
 ## Broader impacts
 
-We've packed this theme with powerful features to show off your work.
-
-Why not put them to use on your new portfolio?
-
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
+Environmental gradients driving genetic divergence can impose strong selective pressure on outplanted corals, as local adaptation can determine the stress response and fitness of coral outplants. Defining environmental barriers is the first step to matching outplanted corals to the sites where they’re most likely to survive.
