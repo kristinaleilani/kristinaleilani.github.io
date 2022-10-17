@@ -38,7 +38,9 @@ Surprisingly, the cryptic lineages within each species also appear to adapt to l
 <div class="gallery" data-columns="1">
 	<img src="/images/TNByearly_range.png">
 </div>
-_Pictured above: Map of the yearly range of total nitrogen in the Florida Keys_
+_Pictured above: Map of the yearly range of total nitrogen in the Florida Keys[^1]_
+
+[^1]: Water quality data is from the [SERC water quality monitoring network](http://serc.fiu.edu/wqmnetwork/)
 
 ### Seascape genomics in St. Croix, USVI
 
