@@ -7,6 +7,7 @@ featured_image: /images/Apal_CaneBay.jpg
 
 <div class="gallery" data-columns="2">
 	<img src="/images/Headshot_CaneBay2.JPG">
+	<img src="/images/beach_portrait.jpg">
 </div>
 
 
