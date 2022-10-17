@@ -8,12 +8,11 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ![](/images/FLKeys_bathymetry.png)
 
-## Cryptic genetic divergence in the Florida Keys
+### Cryptic genetic divergence in the Florida Keys
 
 As coral reefs in the Florida Keys rapidly decline, reef restoration efforts face the challenge of matching outplanted corals to the environment where they are most likely to survive. Using 2bRAD sequencing, we developed a large genomic dataset for two ubiquitous coral species- _Porites astreoides_ and _Agaricia agaricites_ - across 65 reef sites covering the whole Florida reef tract.
 
 We're finding that both species are composed of cryptic lineages across the Florida reef tract. Cryptic genetic diversity is optimistic for facilitating environmental adaptation on a declining reef. Nonetheless, cryptic lineages must be protected in order to maximize adaptive potential and support phenotypic resilience.
-
 
 ---
 
@@ -42,8 +41,11 @@ _Pictured above: Map of the yearly range of total nitrogen in the Florida Keys[^
 
 [^1]: Water quality data is from the [SERC water quality monitoring network](http://serc.fiu.edu/wqmnetwork/)
 
+---
+
 ### Seascape genomics in St. Croix, USVI
 
+I am now teaching genotype-environment association analyses using a new dataset of six coral species from St. Croix, USVI. Under my supervision, this project is being led by six undergraduates at UT-Austin, each conducting an independent analysis of their own species of coral. This project provides an opportunity for students to be fully involved in research with an opportunity for co-authorship in the end. This work is funded by [The Nature Conservancy](https://www.nature.org/en-us/about-us/where-we-work/caribbean/virgin-islands/).
 
 <div class="gallery" data-columns="1">
 	<img src="/images/The_wall.JPG">
