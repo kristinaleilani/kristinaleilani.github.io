@@ -2,7 +2,7 @@
 title: Publications
 subtitle: 
 description: 
-featured_image: /images/Mcav_closeup1.JPG
+featured_image: /images/GBR_overheadshot.JPG
 ---
 
 Macdonald, C., Jerome, J., Pankow, C., Perni, N., **Black, K. L.**, Shiffman, D., & Wester, J. (2021).
