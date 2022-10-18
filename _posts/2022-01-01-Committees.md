@@ -1,6 +1,8 @@
 ---
 title: 'Committees and working groups'
-description: My personal experiences as a racial and gender minority in STEM has grounded my empathy toward other historically-marginalized scientists. I am committed to combating inequality and prejudice in STEM and supporting underrepresented minorities through mentoring, networking, and activism. 
+date: Blurb about
+description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+featured_image: '/images/ICRS22.jpeg'
 ---
 
 ![](/images/ICRS22.jpeg)
