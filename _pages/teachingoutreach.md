@@ -7,6 +7,8 @@ featured_image: /images/KB_wGBR.JPG
 
 ## Teaching
 
+<p>&nbsp;</p>
+
 **Genetics Lab** <br />
 
 TA for 4 semesters of upper-division undergraduate course at the University of Texas at Austin.
@@ -96,4 +98,4 @@ Blurb about why I love mentoring
 	<img src="/images/SCTLD_treating.JPG">
 </div>
 
-_Pictured above: Applying antibiotic paste to a lesion of a coral infected with Stony Coral Tissue Loss Disease_
+_Pictured above: A dive with the Strike Team in St. Croix, demonstrating the application of antibiotic paste to a lesion of a coral infected with Stony Coral Tissue Loss Disease_
