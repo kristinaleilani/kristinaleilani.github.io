@@ -1,7 +1,6 @@
 ---
 title: 'Committees and working groups'
-description: Explanationa for why this is important
-featured_image: '/images/ICRS22.jpeg'
+description: My personal experiences as a racial and gender minority in STEM has grounded my empathy toward other historically-marginalized scientists. I am committed to combating inequality and prejudice in STEM and supporting underrepresented minorities through mentoring, networking, and activism. 
 ---
 
 ![](/images/ICRS22.jpeg)
