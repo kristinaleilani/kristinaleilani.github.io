@@ -5,6 +5,7 @@ featured_image: '/images/ICRS22.jpeg'
 ---
 
 ![](/images/ICRS22.jpeg)
+
 _Pictured above: Leading a DEI workshop at the 2022 ICRS conference in Bremen, Germany_
 
 ## International Coral Reef Society (ICRS) 
@@ -28,11 +29,15 @@ Our primary issues of concern incude:
 If you are interested in contributing to our growing knowledgebase of resources, we'd love to work with you. Please email me or the chapter at icrs.students@gmail.com
 
 
+
+
 ---
 
 > “Quote here.”
 
 ---
+
+
 
 ### Integrative Biology DEI Committee
 
@@ -42,7 +47,10 @@ Since 2022, I joined the DEI committee for the [Department of Integrative Biolog
 [^2]: Miller C and Stassun K. 2014. A test that fails. Nature 510:303-4.
 
 
+
 ---
+
+
 
 ### Minorities in Shark Sciences (MISS)
 
