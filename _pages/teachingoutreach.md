@@ -7,7 +7,7 @@ featured_image: /images/KB_wGBR.JPG
 
 ## Teaching
 
-**Genetics Lab**
+**Genetics Lab**\
 
 TA for 4 semesters of upper-division undergraduate course at the University of Texas at Austin.
 
@@ -24,7 +24,7 @@ I teach laboratory procedures such as:
 
 <p>&nbsp;</p>
 
-<span style="color:black">Evolution</span>
+**Evolution**\
 	
 TA for one semester of this upper-division lecture/discussion course at the University of Texas at Austin.
 
@@ -70,6 +70,7 @@ Blurb about why I love mentoring
 
 
 ## Outreach
+
 
 **Diversity, equity, and inclusion in coral science,** Speaker at a workshop for students and early-career researchers at the International Coral Reef Symposium in Bremen, Germany (2022).
 
