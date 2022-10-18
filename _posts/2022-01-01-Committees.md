@@ -1,10 +1,10 @@
 ---
 title: 'Committees and working groups'
 description: Explanationa for why this is important
-featured_image: '/images/Orpheus_research_boat.JPG'
+featured_image: '/images/ICRS22.jpeg'
 ---
 
-![](/images/ICRS22.jpeg)
+![](/images/KB_Daisy_Sampling.JPG)
 
 ## International Coral Reef Society (ICRS) 
 
