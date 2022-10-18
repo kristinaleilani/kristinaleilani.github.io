@@ -2,7 +2,7 @@
 title: Welcome!
 subtitle: Blurb about why teaching/outreach is important 
 description: Personal is the perfect theme for developers, designers and other creatives.
-featured_image: /images/Ofav_andKB.JPG
+featured_image: /images/KB_wGBR.JPG
 ---
 
 ## Teaching
@@ -33,6 +33,8 @@ I led discussions on
 * Local adaptation
 
 
+---
+
 
 ## Mentoring
 
@@ -55,13 +57,7 @@ Blurb about why I love mentoring
 * 2015-16: Small mammal trapping with anesthesia at the University of Wisconsin-Madison; two mentees
 
 
-<div class="gallery" data-columns="3">
-	<img src="/images/ELP_closeshot.jpg">
-	<img src="/images/SCTLD_treating.JPG">
-	<img src="/images/demo/demo-square.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
-
+---
 
 
 ## Outreach
@@ -76,5 +72,7 @@ Blurb about why I love mentoring
 
 **Coral biology and reef restoration,** Speaker at a workshop for high schoolers through the [Orutsararmiut Native Council](https://orutsararmiut.org/) in Bethel, AK (2021).
 
-
+<div class="gallery" data-columns="1">
+	<img src="/images/SCTLD_treating.JPG">
+</div>
 
