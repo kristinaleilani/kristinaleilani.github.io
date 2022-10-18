@@ -45,7 +45,7 @@ Since 2022, I joined the DEI committee for the [Department of Integrative Biolog
 
 ### Minorities in Shark Sciences (MISS)
 
-Since 2020, I've been part of the [MISS community](https://www.misselasmo.org/) which strives to promote DEI among shark scientists, increase visibility of gender minorities of color in shark science, and share resources, advice, and opportunities between scientists of all levels. 
+Since 2020, I've been part of the [MISS community](https://www.misselasmo.org/) which strives to promote DEI in shark science, and support a network for gender minorities of color to share resources, advice, and opportunities between scientists of all levels. 
 
 
 
