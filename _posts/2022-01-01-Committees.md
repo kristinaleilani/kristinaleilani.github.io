@@ -1,7 +1,7 @@
 ---
 title: 'Committees and working groups'
 description: Explanationa for why this is important
-featured_image: '/images/ICRS22.jpeg'
+featured_image: '/images/Orpheus_research_boat.JPG'
 ---
 
 ![](/images/ICRS22.jpeg)
@@ -21,6 +21,11 @@ Our primary issues of concern incude:
 * **Living wages** to combat insufficient incomes for interns, students, and early career scientists
 
 If you are interested in contributing to our growing knowledgebase of resources, we'd love to work with you. Please email me or the chapter at icrs.students@gmail.com
+
+<div class="gallery" data-columns="1">
+	<img src="/images/ICRS22.jpeg">
+</div>
+_Pictured above: Leading a DEI workshop at the 2022 ICRS conference in Bremen, Germany_
 
 ---
 
