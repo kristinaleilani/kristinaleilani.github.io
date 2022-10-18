@@ -48,16 +48,16 @@ Blurb about why I love mentoring
 **Research mentor**
 
 
--Currently mentoring six undergraduates on a collaborative research project on coral adaptation. I am training students in all research skills- including genetics lab procedures, sequencing pipelines, population genetics analyses in R, and scientific writing. All students will be co-authors the resulting manuscript.
+* Currently mentoring six undergraduates on a collaborative research project on coral adaptation. I am training students in all research skills- including genetics lab procedures, sequencing pipelines, population genetics analyses in R, and scientific writing. All students will be co-authors the resulting manuscript.
 
 
--Mentored two undergraduate interns from the University of the Virgin Islands from May-August 2021 at The Nature Conservancy in St. Croix, USVI. Each intern project conducted an individual summer research projects on coral restoration from experimental design to statistical analysis, and resulted in a final paper and presentation.
+* Mentored two undergraduate interns from the University of the Virgin Islands from May-August 2021 at The Nature Conservancy in St. Croix, USVI. Each intern project conducted an individual summer research projects on coral restoration from experimental design to statistical analysis, and resulted in a final paper and presentation.
 
 <p>&nbsp;</p>
 
 **Laboratory mentor**
 
--Trained 3 undergraduates in genetics lab procedures (including DNA extraction, PCR, gel electrophoresis, and 2bRAD library prep) at the University of Texas-Austin in 2019. One student went on to complete her own first-author research project and is now pursuing a PhD. 
+* Trained 3 undergraduates in genetics lab procedures (including DNA extraction, PCR, gel electrophoresis, and 2bRAD library prep) at the University of Texas-Austin in 2019. One student went on to complete her own first-author research project and is now pursuing a PhD. 
 
 <p>&nbsp;</p>
 
@@ -72,6 +72,7 @@ Blurb about why I love mentoring
 
 ## Outreach
 
+<p>&nbsp;</p>
 
 **Diversity, equity, and inclusion in coral science,** Speaker at a workshop for students and early-career researchers at the International Coral Reef Symposium in Bremen, Germany (2022).
 
