@@ -34,7 +34,16 @@ If you are interested in contributing to our growing knowledgebase of resources,
 
 ---
 
-> “Quote here.”
+## Minorities in Biological Research (MBR)
+
+In 2020, I supported one of my undergraduate mentees in founding [MBR](https://minoritiesinbiologicalresearch.weebly.com/) at UT-Austin. This student-led organization provides guidance to undergraduates that are underrepresented in STEM  and/or first-generation to pursue a career in STEM. We also share resources, disseminate advice, and develops and host workshops to help undergraduates prepare for a biological research career. Workshops we've hosted include: 
+
+1. Applying for grad school (2020)
+
+2. Research careers in biology (2021)
+
+3. Getting involved in research at UT-Austin. (2022)
+
 
 ---
 
