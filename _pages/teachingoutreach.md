@@ -7,7 +7,7 @@ featured_image: /images/KB_wGBR.JPG
 
 ## Teaching
 
-**Genetics Lab**\
+**Genetics Lab** <br />
 
 TA for 4 semesters of upper-division undergraduate course at the University of Texas at Austin.
 
@@ -24,7 +24,7 @@ I teach laboratory procedures such as:
 
 <p>&nbsp;</p>
 
-**Evolution**\
+**Evolution** <br />
 	
 TA for one semester of this upper-division lecture/discussion course at the University of Texas at Austin.
 
