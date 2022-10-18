@@ -75,4 +75,4 @@ Blurb about why I love mentoring
 <div class="gallery" data-columns="1">
 	<img src="/images/SCTLD_treating.JPG">
 </div>
-
+_Pictured above: Applying antibiotic paste to a lesion of a coral infected with Stony Coral Tissue Loss Disease_
