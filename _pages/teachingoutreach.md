@@ -43,12 +43,10 @@ I led discussions on
 
 ## Mentoring
 
-Blurb about why I love mentoring
-
 <p>&nbsp;</p>
 
 **Research mentor**
-
+<p>&nbsp;</p>
 
 * Currently mentoring six undergraduates on a collaborative research project on coral adaptation. I am training students in all research skills- including genetics lab procedures, sequencing pipelines, population genetics analyses in R, and scientific writing. All students will be co-authors the resulting manuscript.
 
@@ -58,12 +56,14 @@ Blurb about why I love mentoring
 <p>&nbsp;</p>
 
 **Laboratory mentor**
+<p>&nbsp;</p>
 
 * Trained 3 undergraduates in genetics lab procedures (including DNA extraction, PCR, gel electrophoresis, and 2bRAD library prep) at the University of Texas-Austin in 2019. One student went on to complete her own first-author research project and is now pursuing a PhD. 
 
 <p>&nbsp;</p>
 
 **Field mentor**
+<p>&nbsp;</p>
 
 * 2017: Predator surveys in Isle Royale National Park; one mentee
 * 2015-16: Small mammal trapping with anesthesia at the University of Wisconsin-Madison; two mentees
