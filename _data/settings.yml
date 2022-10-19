@@ -22,7 +22,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: Applied population genomics for conservation 
+  footer_tagline: Population genomics applied to conservation 
 
 hero_settings:
   overlay_opacity: 0.8
