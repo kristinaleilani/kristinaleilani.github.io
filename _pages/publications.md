@@ -12,7 +12,7 @@ Conservation Science and Practice, e418. [https://doi.org/10.1111/csp2.418](http
 <p>&nbsp;</p>
 
 **Black, K. L.**, Manlick, P. J., Romanski, M. C., & Pauli, J. N. (2020). Exploring the origins of red foxes
-(Vulpes vulpes) on isle royale. American Midland Naturalist, 185(2), 260–266. [https://doi.org/10.1674/0003-0031-185.2.260](https://doi.org/10.1674/0003-0031-185.2.260)
+(_Vulpes vulpes_) on Isle Royale. American Midland Naturalist, 185(2), 260–266. [https://doi.org/10.1674/0003-0031-185.2.260](https://doi.org/10.1674/0003-0031-185.2.260)
 
 <p>&nbsp;</p>
 
@@ -24,7 +24,7 @@ squirrels. Food Webs, 21, e00124. [https://doi.org/10.1016/j.fooweb.2019.e00124]
 <p>&nbsp;</p>
 
 **Black, K. L.**, Petty, S. K., Radeloff, V. C., & Pauli, J. N. (2018). The great lakes region is a melting pot for
-vicariant red fox (Vulpes vulpes) populations. Journal of Mammalogy, 99(5), e2205v1. [https://doi.org/10.1093/jmammal/gyy096](https://doi.org/10.1093/jmammal/gyy096)
+vicariant red fox (_Vulpes vulpes_) populations. Journal of Mammalogy, 99(5), e2205v1. [https://doi.org/10.1093/jmammal/gyy096](https://doi.org/10.1093/jmammal/gyy096)
 
 <p>&nbsp;</p>
 
