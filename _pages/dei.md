@@ -19,13 +19,13 @@ In 2020, I co-founded the equity, diversity, and inclusion committee of the [Stu
 
 Our primary issues of concern incude:
 
-* **Parachute science** (or scientific colonialism), where researchers drop down from the wealthy Western world and exploit foreign communities for fieldwork
+***Parachute science** (or scientific colonialism), where researchers drop down from the wealthy Western world and exploit foreign communities for fieldwork
 
-* **Institutional Biases** including racism, sexism, etc. in major decisions such as hiring and funding
+***Institutional Biases** including racism, sexism, etc. in major decisions such as hiring and funding
 
-* **Leaky pipelines,** or the progressive underrepresentation of minorities in STEM
+***Leaky pipelines,** or the progressive underrepresentation of minorities in STEM
 
-* **Living wages** to combat insufficient incomes for interns, students, and early career scientists
+***Living wages** to combat insufficient incomes for interns, students, and early career scientists
 
 
 
@@ -37,11 +37,11 @@ If you are interested in contributing to our growing knowledgebase of resources,
 
 In 2020, I supported one of my undergraduate mentees in founding [MBR](https://minoritiesinbiologicalresearch.weebly.com/) at UT-Austin. This student-led organization provides guidance to undergraduates that are underrepresented in STEM  and/or first-generation to pursue a career in STEM. We also share resources, disseminate advice, and develops and host workshops to help undergraduates prepare for a biological research career. Workshops we've hosted include: 
 
-1. Applying for grad school (2020)
+1.Applying for grad school (2020)
 
-2. Research careers in biology (2021)
+2.Research careers in biology (2021)
 
-3. Getting involved in research at UT-Austin. (2022)
+3.Getting involved in research at UT-Austin. (2022)
 
 
 ---
