@@ -1,7 +1,7 @@
 ---
 title: Teaching, mentoring, and outreach
-subtitle: Blurb about why teaching/outreach is important 
-description: Personal is the perfect theme for developers, designers and other creatives.
+subtitle: Throughout every component of my research, I make a point to enhance the learning and outreach environment, especially with my undergraduate mentees. I aim to fully support them throughout the research process into publication, and to encourage and facilitate their pursuit of original research questions. I am devoted to becoming the mentor that I needed as a first-generation scientist.
+description: 
 featured_image: /images/KB_wGBR.JPG
 ---
 
