@@ -5,7 +5,7 @@ description:
 featured_image: /images/ICRS22.jpeg
 ---
 
-### Committees and working groups
+# Committees and working groups
 
 ![](/images/ICRS22.jpeg)
 
