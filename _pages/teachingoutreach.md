@@ -77,7 +77,7 @@ I led discussions on
 
 <p>&nbsp;</p>
 
-**Diversity, equity, and inclusion in coral science,** Speaker at a workshop for students and early-career researchers at the International Coral Reef Symposium in Bremen, Germany (2022).
+**Diversity, equity, and inclusion in coral science,** Speaker at a workshop for students and early-career researchers at the [International Coral Reef Symposium](http://coralreefs.org/) in Bremen, Germany (2022).
 
 <p>&nbsp;</p>
 
