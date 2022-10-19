@@ -1,9 +1,11 @@
 ---
 title: Diversity, equity, and inclusion
-subtitle: Committees and working groups
-description: My personal experiences as a racial and gender minority in STEM has grounded my empathy toward other historically-marginalized scientists. I am committed to combating inequality and prejudice in STEM and supporting underrepresented minorities through mentoring, networking, and activism.
+subtitle: My personal experiences as a racial and gender minority in STEM has grounded my empathy toward other historically-marginalized scientists. I am committed to combating inequality and prejudice in STEM and supporting underrepresented minorities through mentoring, networking, and activism.
+description: 
 featured_image: /images/ICRS22.jpeg
 ---
+
+### Committees and working groups
 
 ![](/images/ICRS22.jpeg)
 
