@@ -1,5 +1,5 @@
 ---
-title: Welcome!
+title: Teaching, mentoring, and outreach
 subtitle: Blurb about why teaching/outreach is important 
 description: Personal is the perfect theme for developers, designers and other creatives.
 featured_image: /images/KB_wGBR.JPG
@@ -49,10 +49,10 @@ I led discussions on
 **Research mentor**
 <p>&nbsp;</p>
 
-* Currently mentoring six undergraduates on a collaborative research project on coral adaptation. I am training students in all research skills- including genetics lab procedures, sequencing pipelines, population genetics analyses in R, and scientific writing. All students will be co-authors the resulting manuscript.
+* Currently mentoring six undergraduate students in a collaborative research project on coral adaptation. I train my students in all research skills- including genetics lab procedures, sequencing pipelines, population genetics analyses in R, and scientific writing- with the intent that all students will be co-authors of the resulting manuscript.
 
 
-* Mentored two undergraduate interns from the University of the Virgin Islands from May-August 2021 at The Nature Conservancy in St. Croix, USVI. Each intern project conducted an individual summer research projects on coral restoration from experimental design to statistical analysis, and resulted in a final paper and presentation.
+* Mentored two undergraduate interns from the University of the Virgin Islands from May-July 2021 at The Nature Conservancy in St. Croix, USVI. Each intern conducted an individual summer research project on coral restoration. Projects encompassed the full research experience- from experimental design to statistical analysis- and resulted in a final paper and presentation.
 
 <p>&nbsp;</p>
 
@@ -85,11 +85,11 @@ I led discussions on
 
 <p>&nbsp;</p>
 
-**Getting into Marine Biology,** Compiled resources to guide underrepresented minorities or first-generation in STEM to break into the field of marine biology. Hosted by [Minorities in Biological Research](https://minoritiesinbiologicalresearch.weebly.com/resources.html) at UT-Austin (2022).
+**Getting into Marine Biology,** Compiled resources into a guide for helping first-generation college students to break into the field of marine biology. Hosted by [Minorities in Biological Research](https://minoritiesinbiologicalresearch.weebly.com/resources.html) at UT-Austin (2022).
 
 <p>&nbsp;</p>
 
-**SCTLD Strike Team,** Certified for treatment of Stony Coral Tissue Loss Disease by [The Virgin Islands Coral Reef Advisory Group](https://www.vicoraldisease.org/sctld-strike-teams) (2021).
+**SCTLD Strike Team member,** Certified for treatment of Stony Coral Tissue Loss Disease by [The Virgin Islands Coral Reef Advisory Group](https://www.vicoraldisease.org/sctld-strike-teams) (2021).
 
 <p>&nbsp;</p>
 
