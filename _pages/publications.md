@@ -6,7 +6,7 @@ featured_image: /images/GBR_overheadshot.JPG
 ---
 
 Macdonald, C., Jerome, J., Pankow, C., Perni, N., **Black, K. L.**, Shiffman, D., & Wester, J. (2021).
-Identification of a probable nursery area for great hammerhead sharks on the u.s. atlantic coast.
+Identification of a probable nursery area for great hammerhead sharks on the U.S. Atlantic coast.
 Conservation Science and Practice, e418. [https://doi.org/10.1111/csp2.418](https://doi.org/10.1111/csp2.418)
 
 <p>&nbsp;</p>
