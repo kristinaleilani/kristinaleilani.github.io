@@ -28,7 +28,7 @@ I teach laboratory procedures such as:
 
 **Evolution** <br />
 	
-TA for one semester of this upper-division lecture/discussion course at the University of Texas at Austin.
+TA for one semester of upper-division lecture/discussion course at the University of Texas at Austin.
 
 I led discussions on
 
@@ -36,6 +36,7 @@ I led discussions on
 * Population genetics
 * Sexual selection
 * Local adaptation
+* Phylogenetics and speciation
 
 <p>&nbsp;</p>
 ---
