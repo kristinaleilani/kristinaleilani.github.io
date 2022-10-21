@@ -19,7 +19,7 @@ Through a combination of common garden experiments and transplant experiments in
 <div class="gallery" data-columns="3">
 	<img src="/images/tile recruit (1).jpg">
 	<img src="/images/Outplant_recruit.JPG">
-	<img src="/images/Oneyear_recruit.jpg">
+	<img src="/images/One_year_zoomed.jpg">
 </div>
 _Pictured above: (Left) Newly settled coral recruits on artificial substrate. (Middle) Multiple substrates, each containing multiple coral recruits, strung on a rod and outplanted to the reef to undergo selection in the field. (Right) A coral recruit surviving on an overgrown substrate, retrieved from the selection experiment after one year in the field. Survivors such as these provide genetic insights to adaptations that are important for the longevity of coral outplants._
 
