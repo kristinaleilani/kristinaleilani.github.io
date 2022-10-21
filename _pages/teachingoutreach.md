@@ -5,6 +5,8 @@ description:
 featured_image: /images/KB_wGBR.JPG
 ---
 
+![](/images/UTAustin.jpg)
+
 ## Teaching
 
 <p>&nbsp;</p>
