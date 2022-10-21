@@ -12,11 +12,16 @@ _Pictured above: The Nature Conservancy's land-based coral nursery in St. Croix,
 
 ## Parental effects to improve outplant fitness
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+Quick synopsis
 
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
+Through a combination of common garden experiments and transplant experiments in the field, ...
 
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+<div class="gallery" data-columns="3">
+	<img src="/images/tile recruit (1).jpg">
+	<img src="/images/Outplant_recruit.JPG">
+	<img src="/images/Oneyear_recruit.jpg">
+</div>
+_Pictured above: (Left) Newly settled coral recruits on artificial substrate. (Middle) Multiple substrates, each containing multiple coral recruits, strung on a rod and outplanted to the reef to undergo selection in the field. (Right) A coral recruit surviving on an overgrown substrate, retrieved from the selection experiment after one year in the field. Survivors such as these provide genetic insights to adaptations that are important for the longevity of coral outplants._
 
 You can create lists:
 
@@ -30,11 +35,6 @@ And:
 2. Like this other one
 3. Are great too
 
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
-
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
-
-The theme also supports markdown tables:
 
 
 And footnotes[^1], which link to explanations[^2] at the bottom of the page[^3].
@@ -49,14 +49,7 @@ You can throw in some horizontal rules too:
 
 ### Finding genes for thermal regulation
 
-Here's a really neat custom feature we added – galleries:
-
-<div class="gallery" data-columns="3">
-	<img src="/images/tile recruit (1).jpg">
-	<img src="/images/Outplant_recruit.JPG">
-	<img src="/images/Oneyear_recruit.jpg">
-</div>
-_Pictured above: (Left) Newly settled coral recruits on artificial substrate. (Middle) Multiple substrates, each containing multiple coral recruits, strung on a rod and outplanted to the reef to undergo selection in the field. (Right) A coral recruit surviving on an overgrown substrate, retrieved from the selection experiment after one year in the field. Survivors such as these provide genetic insights to adaptations that are important for the longevity of coral outplants._
+Ds9 explanation
 
 *See what we did there? Code and syntax highlighting is built-in too!*
 
@@ -71,9 +64,9 @@ Here's another gallery with only one column, which creates a carousel slide-show
 A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
 
 <div class="gallery" data-columns="1">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
+	<img src="/images/Orpheus_research_boat.JPG">
+	<img src="/images/Ofav_andKB.JPG">
 </div>
-
+_Photo 1: Field work at Orpheus Island Research Station in Australia, Photo 2: Fieldwork at Cane Bay in St. Croix, USVI_
 
 ---
