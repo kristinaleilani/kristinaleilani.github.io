@@ -7,6 +7,8 @@ featured_image: '/images/ELP_closeshot.jpg'
 ---
 
 ![](/images/ELP_closeshot.jpg)
+_Pictured above: The Nature Conservancy's land-based coral nursery in St. Croix, USVI_
+
 
 ## Parental effects to improve outplant fitness
 
