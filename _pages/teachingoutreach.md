@@ -6,6 +6,9 @@ featured_image: /images/KB_wGBR.JPG
 ---
 
 ![](/images/UTAustin.jpg)
+_Pictured above: A view of the University of Texas at Austin from the roof of Patterson Labs_
+
+<p>&nbsp;</p>
 
 ## Teaching
 
