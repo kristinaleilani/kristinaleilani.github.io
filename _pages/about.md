@@ -29,4 +29,4 @@ B.S. (2014) in Zoology w/ a minor in philosophy from the University of Oklahoma
 
 Whether you're looking for a research collaborator or a dive buddy, feel free to send me an email and/or follow me on social media.
 
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
+<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Download my CV</a>
