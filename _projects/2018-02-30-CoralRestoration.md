@@ -14,7 +14,7 @@ _Pictured above: The Nature Conservancy's land-based coral nursery in St. Croix,
 
 ## Adaptive genetic variants to improve fitness of coral outplants
 
-Sexual propogation is an opportunity to enhance the adaptive potential of restored populations. During the annual coral spawning event, we conduct reciprocal crosses to produce new genetic variation and explore heritability of environmental adaptations. By evaluating fitness of coral larvae, recruits, and adult colonies in common gardens and transplant experiments in the field, I aim to identify parental genotypes containing heritable environmental adaptations for producing a new generation of corals with the best chances of survival. 
+Sexual propogation is an opportunity to enhance the adaptive potential of restored populations. During the annual coral spawning event, we conduct reciprocal crosses to produce new genetic variation and explore heritability of environmental adaptations. By evaluating fitness of coral larvae, recruits, and adult colonies in common gardens and transplant experiments in the field, I aim to identify parental genotypes for producing a new generation of corals with the best chances of survival. 
 
 <div class="gallery" data-columns="3">
 	<img src="/images/tile recruit (1).jpg">
@@ -37,7 +37,7 @@ Thermally induced coral bleaching is a major cause of reef decline in the Great 
 
 ### Broader impacts
 
-These projects support reef restoration by identifying adaptive genotypes for increasing fitness of coral outplants. Using adaptive variants in sexual propogation of corals (aka "assisted gene flow") can facilitate evolution to global change. The direct outcomes of these projects will support restoration efforts through: 1) defining environmental barriers to gene flow for guiding spatial arrangement of outplanted corals, and 2) choosing optimal parental colonies for coral breeding.
+Using adaptive variants in sexual propogation of corals (aka "assisted gene flow"), we can facilitate evolution to global change. The direct outcomes of these projects will support restoration efforts by identifying the optimal parental genotypes for coral breeding and outplanting.
 
 
 
