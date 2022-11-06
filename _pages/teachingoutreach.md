@@ -6,6 +6,7 @@ featured_image: /images/KB_wGBR.JPG
 ---
 
 ![](/images/UTAustin.jpg)
+
 _Pictured above: A view of the University of Texas at Austin from the roof of Patterson Labs_
 
 <p>&nbsp;</p>
@@ -42,6 +43,7 @@ I led discussions on:
 * Sexual selection
 * Local adaptation
 * Phylogenetics and speciation
+* Neutral theory of molecular evolution
 
 <p>&nbsp;</p>
 ---
@@ -53,10 +55,10 @@ I led discussions on:
 
 **Research mentor**
 
-Currently mentoring six undergraduate students in a collaborative research project on coral adaptation. I train my students in all research skills- including genetics lab procedures, sequencing pipelines, population genetics analyses in R, and scientific writing- with the intent that all students will be co-authors of the resulting manuscript.
+* Currently mentoring six undergraduate students in a collaborative research project on coral adaptation. I train my students in all research skills- including genetics lab procedures, sequencing pipelines, population genetics analyses in R, and scientific writing- with the intent that all students will be co-authors of the resulting manuscript.
 
 
-Mentored two undergraduate interns from the University of the Virgin Islands from May-July 2021 at The Nature Conservancy in St. Croix, USVI. Each intern conducted an individual summer research project on coral restoration. Projects encompassed the full research experience- from experimental design to statistical analysis- and resulted in a final paper and presentation.
+* Mentored two undergraduate interns from the University of the Virgin Islands from May-July 2021 at The Nature Conservancy in St. Croix, USVI. Each intern conducted an individual summer research project on coral restoration. Projects encompassed the full research experience- from experimental design to statistical analysis- and resulted in a final paper and presentation.
 
 <p>&nbsp;</p>
 
@@ -87,7 +89,7 @@ Mentored two undergraduate interns from the University of the Virgin Islands fro
 
 <p>&nbsp;</p>
 
-**Getting into Marine Biology,** Compiled resources into a guide for helping first-generation college students to break into the field of marine biology. Hosted by [Minorities in Biological Research](https://minoritiesinbiologicalresearch.weebly.com/resources.html) at UT-Austin (2022).
+**Getting into Marine Biology,** Developed a guide for informing first-generation college students about entering the field of marine biology. Hosted by [Minorities in Biological Research](https://minoritiesinbiologicalresearch.weebly.com/resources.html) at UT-Austin (2022).
 
 <p>&nbsp;</p>
 
