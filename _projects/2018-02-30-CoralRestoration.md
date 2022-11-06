@@ -2,7 +2,7 @@
 title: 'Coral restoration'
 subtitle: 'Finding adaptive genetic variants for restoring degraded reefs'
 date: 2022-02-30 00:00:00
-description: 'Choosing parental genotypes for sexual propogation in the Caribbean and Australia'
+description: Choosing parental genotypes for sexual propogation in the Caribbean and Australia
 featured_image: '/images/ELP_closeshot.jpg'
 ---
 
