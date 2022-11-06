@@ -14,7 +14,7 @@ _Pictured above: The Nature Conservancy's land-based coral nursery in St. Croix,
 
 ## Finding adaptive genetic variants to improve fitness of coral outplants
 
-Sexual propogation is an opportunity to enhance the adaptive potential of restored populations. During the annual coral spawning event, I am conducting reciprocal crosses to produce new genetic variation and explore heritability of environmental adaptations. By evaluating fitness of coral larvae, recruits, and adult colonies in common gardens and transplant experiments in the field, I aim to identify parental genotypes containing heritable environmental adaptations for producing a new generation of corals with the best chances of survival. 
+Sexual propogation is an opportunity to enhance the adaptive potential of restored populations. During the annual coral spawning event, we conduct reciprocal crosses to produce new genetic variation and explore heritability of environmental adaptations. By evaluating fitness of coral larvae, recruits, and adult colonies in common gardens and transplant experiments in the field, I aim to identify parental genotypes containing heritable environmental adaptations for producing a new generation of corals with the best chances of survival. 
 
 <div class="gallery" data-columns="3">
 	<img src="/images/tile recruit (1).jpg">
