@@ -55,8 +55,7 @@ I led discussions on:
 
 **Research mentor**
 
-* Currently mentoring six undergraduate students in a collaborative research project on coral adaptation. I train my students in all research skills- including genetics lab procedures, sequencing pipelines, population genetics analyses in R, and scientific writing- with the intent that all students will be co-authors of the resulting manuscript.
-
+* Currently mentoring six undergraduate students in a collaborative research project on coral adaptation. I train my students in all research skills- including genetics lab procedures, bioinformatics pipelines, population genetics analyses in R, and scientific writing- with the intent that all students will be co-authors of the resulting manuscript.
 
 * Mentored two undergraduate interns from the University of the Virgin Islands from May-July 2021 at The Nature Conservancy in St. Croix, USVI. Each intern conducted an individual summer research project on coral restoration. Projects encompassed the full research experience- from experimental design to statistical analysis- and resulted in a final paper and presentation.
 
