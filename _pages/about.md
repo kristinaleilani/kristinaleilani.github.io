@@ -1,6 +1,6 @@
 ---
 title: Welcome!
-subtitle: My dissertation research focuses on evolutionary responses of coral to their environment. Though I am broadly interested in the adaptive potential of wildlife to respond to global change. I'm always glad to talk about research, fieldwork, ocean conservation, and increasing DEI in STEM.
+subtitle: My dissertation research focuses on evolutionary responses of coral to their environment. Though, I am broadly interested in the adaptive potential of wildlife to respond to global change. I'm always glad to talk about research, fieldwork, ocean conservation, and increasing DEI in STEM.
 description: 
 featured_image: /images/Apal_CaneBay.jpg
 ---
