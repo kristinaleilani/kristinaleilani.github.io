@@ -19,13 +19,13 @@ In 2020, I co-founded the equity, diversity, and inclusion committee of the [Stu
 
 Our primary issues of concern incude:
 
-* **Parachute science** (or scientific colonialism), where researchers drop down from the wealthy Western world and exploit foreign communities for fieldwork
+  **Parachute science** (or scientific colonialism), where researchers drop down from the wealthy Western world and exploit foreign communities for fieldwork
 
-* **Institutional Biases** including racism, sexism, etc. in major decisions such as hiring and funding
+  **Institutional Biases** including racism, sexism, etc. in major decisions such as hiring and funding
 
-* **Leaky pipelines,** or the progressive underrepresentation of minorities in STEM
+  **Leaky pipelines,** or the progressive underrepresentation of minorities in STEM
 
-* **Living wages** to combat insufficient incomes for interns, students, and early career scientists
+  **Living wages** to combat insufficient incomes for interns, students, and early career scientists
 
 
 
