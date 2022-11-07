@@ -9,7 +9,7 @@ featured_image: /images/ICRS22.jpeg
 
 ![](/images/ICRS22.jpeg)
 
-_Pictured above: Leading a DEI workshop at the 2022 ICRS conference in Bremen, Germany_
+_Pictured above: Kristina leading a DEI workshop at the 2022 ICRS conference in Bremen, Germany_
 
 ## International Coral Reef Society (ICRS) 
 
