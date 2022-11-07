@@ -10,7 +10,7 @@ featured_image: '/images/Seascape.JPG'
 
 ### Cryptic genetic divergence in the Florida Keys
 
-As coral reefs in the Florida Keys rapidly decline, reef restoration faces the challenge of matching outplanted corals to the environment where they are most likely to survive. Using 2bRAD sequencing, we developed a large genomic dataset for two ubiquitous coral species- _Porites astreoides_ and _Agaricia agaricites_ - across 65 reef sites covering the whole Florida reef tract.
+As coral reefs in the Florida Keys rapidly decline, reef restoration faces the challenge of matching outplanted corals to the environment where they are most likely to survive. Using 2bRAD sequencing, we developed a large genomic dataset for two ubiquitous coral species- _Porites astreoides_ and _Agaricia agaricites_ - across the whole Florida reef tract.
 
 We're finding that both species are composed of cryptic lineages, which is optimistic for facilitating environmental adaptation on a declining reef. Nonetheless, cryptic lineages must be protected in order to maximize adaptive potential and support phenotypic resilience.
 
@@ -31,7 +31,7 @@ _Pictured above: Range of depths inhabited by each genetic lineage for two coral
 
 ### Adaptation to water quality gradients within cryptic lineages
 
-Surprisingly, the cryptic lineages within each species also appear to adapt to local environments on their own. In _A. agaricites_, nitrogen and cold temperatures appear to drive divergence within lineages. While in _P. astreoides_, temperature extremes appear to be important drivers. 
+Surprisingly, the cryptic lineages within each species also appear to adapt to local environments on their own. In _A. agaricites_, nitrogen and cold temperatures appear to drive divergence within lineages. While in _P. astreoides_, cold temperatures also appear to be an important driver. 
 
 <div class="gallery" data-columns="1">
 	<img src="/images/TNByearly_range.png">
