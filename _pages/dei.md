@@ -15,7 +15,7 @@ _Pictured above: Kristina leading a DEI workshop at the 2022 ICRS conference in 
 
 In 2020, I co-founded the equity, diversity, and inclusion committee of the [Student and Early Career Chapter](https://www.coralreefstudents.org/) of [ICRS](http://coralreefs.org/) with other graduate students researching coral across the globe. We developed original [purpose and philosophy  statements](https://www.coralreefstudents.org/edi) that constitute our chapter’s stance on DEI issues. We are currently developing workshops and informative materials for disseminating opportunities and resources to increase participation and recognition of underrepresented minorities in coral science.
 
-
+<p>&nbsp;</p>
 
 Our primary issues of concern incude:
 
@@ -27,7 +27,7 @@ Our primary issues of concern incude:
 
   **Living wages** to combat insufficient incomes for interns, students, and early career scientists
 
-
+<p>&nbsp;</p>
 
 If you are interested in contributing to our growing knowledgebase of resources, we'd love to work with you. Please email me or the chapter at icrs.students@gmail.com
 
