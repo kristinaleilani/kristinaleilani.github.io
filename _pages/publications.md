@@ -5,6 +5,12 @@ description:
 featured_image: /images/GBR_overheadshot.JPG
 ---
 
+**Black, K. L.**, Rippe, J.P., & Matz, M.K. (2023).
+Environmental drivers of genetic adaptation in Florida corals.
+preprint. [https://www.authorea.com/doi/full/10.22541/au.166997531.17274551/v1](https://www.authorea.com/doi/full/10.22541/au.166997531.17274551/v1)
+
+<p>&nbsp;</p>
+
 Macdonald, C., Jerome, J., Pankow, C., Perni, N., **Black, K. L.**, Shiffman, D., & Wester, J. (2021).
 Identification of a probable nursery area for great hammerhead sharks on the U.S. Atlantic coast.
 Conservation Science and Practice, e418. [https://doi.org/10.1111/csp2.418](https://doi.org/10.1111/csp2.418)
