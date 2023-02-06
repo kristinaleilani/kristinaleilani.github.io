@@ -17,7 +17,7 @@ _Pictured above: A view of the University of Texas at Austin from the roof of Pa
 
 **Genetics Lab** <br />
 
-TA for 4 semesters of upper-division undergraduate course at the University of Texas at Austin.
+TA for 5 semesters of upper-division undergraduate course at the University of Texas at Austin.
 
 I teach laboratory procedures such as:
 
