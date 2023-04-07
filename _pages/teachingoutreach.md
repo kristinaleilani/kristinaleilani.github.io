@@ -67,7 +67,7 @@ I also mentored two undergraduate interns from the University of the Virgin Isla
 
 **Laboratory mentor**
 
-Trained 8 undergraduates in genetics lab procedures (including DNA extraction, PCR, gel electrophoresis, and 2bRAD library prep) at the University of Texas-Austin in 2019. One student went on to complete her own first-author research project and is now pursuing a PhD. 
+I've trained 8 undergraduates in genetics lab procedures (including DNA extraction, PCR, gel electrophoresis, and 2bRAD library prep) at the University of Texas-Austin in 2019. One student went on to complete her own first-author research project and is now pursuing a PhD. 
 
 <p>&nbsp;</p>
 
