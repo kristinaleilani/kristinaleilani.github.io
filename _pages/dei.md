@@ -37,11 +37,11 @@ If you are interested in contributing to our growing knowledgebase of resources,
 
 In 2020, I supported one of my undergraduate mentees in founding [MBR](https://minoritiesinbiologicalresearch.weebly.com/) at UT-Austin. This student-led organization provides guidance to undergraduates that are underrepresented in STEM  and/or first-generation to pursue a career in STEM. We also share resources, disseminate advice, develop and host workshops to help undergraduates prepare for a biological research career. Workshops we've hosted include: 
 
-Applying for grad school (2020)
+Getting involved in research at UT-Austin (2022)
 
 Research careers in biology (2021)
 
-Getting involved in research at UT-Austin (2022)
+Applying for grad school (2020)
 
 
 ---
