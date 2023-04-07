@@ -73,7 +73,7 @@ I've trained 8 undergraduates in genetics lab procedures (including DNA extracti
 
 **Field mentor**
 
-In 2017, I supervised predator surveys in Isle Royale National Park with one mentee. And in 2015-2016, I mentored two undergraduates in small mammal trapping with anesthesia at the University of Wisconsin-Madison.
+I've also trained and supervised interns and volunteers in various field methods- including ex-situ coral spawning at The Nature Conservancy in St. Croix, predator surveys in Isle Royale National Park, and small mammal trapping with anesthesia at the University of Wisconsin-Madison.
 
 <p>&nbsp;</p>
 ---
