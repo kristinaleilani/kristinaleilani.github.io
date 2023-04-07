@@ -17,7 +17,7 @@ _Pictured above: A view of the University of Texas at Austin from the roof of Pa
 
 **Genetics Lab** <br />
 
-TA for 5 semesters of upper-division undergraduate course at the University of Texas at Austin.
+Teaching Assistant for 5 semesters of upper-division undergraduate course at the University of Texas at Austin.
 
 I teach laboratory procedures such as:
 
@@ -27,14 +27,16 @@ I teach laboratory procedures such as:
 * Gel electrophoresis
 * PCR
 * Western Blot
-* DNA barcoding
+* DNA barcoding 
 * Fragment analysis
+
+I also gave a guest lecture on applications of DNA barcoding for wildlife conservation, covering my own experiences in phylogeography, detecting endangered species in eDNA, and evaluating diet with metabarcoding.
 
 <p>&nbsp;</p>
 
 **Evolution** <br />
 	
-TA for one semester of upper-division lecture/discussion course at the University of Texas at Austin.
+Teaching Assistant for one semester of upper-division lecture/discussion course at the University of Texas at Austin.
 
 I led discussions on:
 
@@ -59,20 +61,19 @@ Currently mentoring six undergraduate students in a collaborative research proje
 
 <p>&nbsp;</p>
 
-Mentored two undergraduate interns from the University of the Virgin Islands from May-July 2021 at The Nature Conservancy in St. Croix, USVI. Each intern conducted an individual summer research project on coral restoration. Projects encompassed the full research experience- from experimental design to statistical analysis- and resulted in a final paper and presentation.
+I also mentored two undergraduate interns from the University of the Virgin Islands from May-July 2021 at The Nature Conservancy in St. Croix, USVI. Each intern conducted an individual summer research project on coral restoration. Projects encompassed the full research experience- from experimental design to statistical analysis- and resulted in a final paper and presentation.
 
 <p>&nbsp;</p>
 
 **Laboratory mentor**
 
-Trained 3 undergraduates in genetics lab procedures (including DNA extraction, PCR, gel electrophoresis, and 2bRAD library prep) at the University of Texas-Austin in 2019. One student went on to complete her own first-author research project and is now pursuing a PhD. 
+Trained 8 undergraduates in genetics lab procedures (including DNA extraction, PCR, gel electrophoresis, and 2bRAD library prep) at the University of Texas-Austin in 2019. One student went on to complete her own first-author research project and is now pursuing a PhD. 
 
 <p>&nbsp;</p>
 
 **Field mentor**
 
-2017: Predator surveys in Isle Royale National Park; one mentee
-2015-16: Small mammal trapping with anesthesia at the University of Wisconsin-Madison; two mentees
+In 2017, I supervised predator surveys in Isle Royale National Park with one mentee. And in 2015-2016, I mentored two undergraduates in small mammal trapping with anesthesia at the University of Wisconsin-Madison.
 
 <p>&nbsp;</p>
 ---
