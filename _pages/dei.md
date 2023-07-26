@@ -48,19 +48,20 @@ Applying for grad school (2020)
 
 
 
-### Integrative Biology DEI Committee
+### DEI Committees
 
 Since 2022, I joined the DEI committee for the [Department of Integrative Biology](https://integrativebio.utexas.edu/academics/diversity-inclusion) at UT-Austin. We are in the process of reforming the graduate school admissions process to be more inclusive of diverse applicant experiences. We strive to remove barriers such as standardized tests,[^1] which are inherently biased against women, ethnic minorities, and applicants from low-income backgrounds.[^2] Instead, we aim to develop a holistic evidence-based approach to recruit and admit a more diverse student body that accurately reflects the diversity within society.
 
 [^1]: Hu. 2020. Graduate programs drop GRE after online version raises concerns about fairness. Science.
 [^2]: Miller C and Stassun K. 2014. A test that fails. Nature 510:303-4.
 
+In 2023 I also joined the DEI committee for the [College of Natural Sciences](https://cns.utexas.edu/) at UT-Austin, and I look forward to expanding DEI work across the broader college.
 
 
 ---
 
 ### Minorities in Shark Sciences (MISS)
 
-Since 2020, I've been part of the [MISS community](https://www.misselasmo.org/) which strives to promote DEI in shark science, and support a network for gender minorities of color to share resources, advice, and opportunities between scientists of all levels. 
+Since 2020, I've been part of the [MISS community](https://www.misselasmo.org/) which strives to promote DEI in shark science, and support a network for gender minorities of color to share resources, advice, and opportunities between scientists of all levels. As a member, I've given talks to the community about my experiences as a scientist and mental health in graduate school.
 
 
