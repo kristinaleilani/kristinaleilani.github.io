@@ -11,6 +11,18 @@ preprint. [https://www.authorea.com/doi/full/10.22541/au.166997531.17274551/v1](
 
 <p>&nbsp;</p>
 
+Rando, H.M., Alexander, E.P., Preckler-Quisquater, S., Quinn, C.B., Stutchman, J.T., Johnson, J.L., Bastounes, E.R., Horecka, B. **Black, K. L.**, Robson, M.P., Shepeleva, D.V., Herbeck, Y.E., Kharlamova, A.V., Trut, L.N., Pauli, J.N., Kukekova, A.V., Sacks, B.N. (2023).
+Missing history of a modern domesticate: historical demographics and genetic diversity in domesticated red fox populations.
+Under consideration. Journal of Heredity.
+
+<p>&nbsp;</p>
+
+Sanders, S.W., Spear, S.F., **Black, K. L.**, Olfenbuttel, C., & DePerno, C.S. (2023).
+Diet of the North American River Otter (_(Lontra canadensis)_) in North Carolina using two methods.
+In revision. Wildlife Society Bulletin.
+
+<p>&nbsp;</p>
+
 Macdonald, C., Jerome, J., Pankow, C., Perni, N., **Black, K. L.**, Shiffman, D., & Wester, J. (2021).
 Identification of a probable nursery area for great hammerhead sharks on the U.S. Atlantic coast.
 Conservation Science and Practice, e418. [https://doi.org/10.1111/csp2.418](https://doi.org/10.1111/csp2.418)
