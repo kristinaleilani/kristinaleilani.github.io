@@ -18,7 +18,7 @@ Under consideration, Journal of Heredity.
 <p>&nbsp;</p>
 
 Sanders, S.W., Spear, S.F., **Black, K. L.**, Olfenbuttel, C., & DePerno, C.S. (2023).
-Diet of the North American River Otter (_(Lontra canadensis)_) in North Carolina using two methods.
+Diet of the North American River Otter (_Lontra canadensis_) in North Carolina using two methods.
 In revision, Wildlife Society Bulletin.
 
 <p>&nbsp;</p>
