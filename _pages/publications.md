@@ -13,7 +13,7 @@ preprint. [https://www.authorea.com/doi/full/10.22541/au.166997531.17274551/v1](
 
 Rando, H.M., Alexander, E.P., Preckler-Quisquater, S., Quinn, C.B., Stutchman, J.T., Johnson, J.L., Bastounes, E.R., Horecka, B. **Black, K. L.**, Robson, M.P., Shepeleva, D.V., Herbeck, Y.E., Kharlamova, A.V., Trut, L.N., Pauli, J.N., Kukekova, A.V., Sacks, B.N. (2023).
 Missing history of a modern domesticate: historical demographics and genetic diversity in domesticated red fox populations.
-Under consideration, Journal of Heredity.
+Under review, Journal of Heredity.
 
 <p>&nbsp;</p>
 
