@@ -30,7 +30,7 @@ I teach laboratory procedures such as:
 * DNA barcoding 
 * Fragment analysis
 
-I also gave a guest lecture on applications of DNA barcoding for wildlife conservation, covering my own experiences in phylogeography, detecting endangered species in eDNA, and evaluating diet with metabarcoding.
+Guest lecturer: Applications of DNA barcoding for wildlife conservation (i.e., Phylogeography, detecting endangered species in eDNA, and evaluating diet with metabarcoding).
 
 <p>&nbsp;</p>
 
@@ -80,6 +80,10 @@ I've also trained and supervised interns and volunteers in various field methods
 
 
 ## Outreach
+
+<p>&nbsp;</p>
+
+**Amazing adaptations under the sea: Nature’s genetic toolbox for coral reef restoration,** Speaker at the "Science Under the Stars" lecture series, hosted at Brackenridge Field Laboratory in Austin, TX (2024). Check out the [Youtube channel](https://www.youtube.com/channel/UCWzqQVwdRGlzmWEhJnHcfKw).
 
 <p>&nbsp;</p>
 
