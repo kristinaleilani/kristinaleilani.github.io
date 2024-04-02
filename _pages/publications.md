@@ -15,7 +15,7 @@ featured_image: /images/GBR_overheadshot.JPG
 
 **Black, K. L.**, Rippe, J.P., & Matz, M.K. (2023).
 Environmental drivers of genetic adaptation in Florida corals. In revision.
-Preprint DOI: [10.22541/au.166997531.17274551/v1] (https://www.authorea.com/doi/full/10.22541/au.166997531.17274551/v1)
+Preprint DOI: [10.22541/au.166997531.17274551/v1](https://www.authorea.com/doi/full/10.22541/au.166997531.17274551/v1)
 
 <p>&nbsp;</p>
 
