@@ -83,7 +83,7 @@ I've also trained and supervised interns and volunteers in various field methods
 
 <p>&nbsp;</p>
 
-**Amazing adaptations under the sea: Nature’s genetic toolbox for coral reef restoration,** Speaker at the "Science Under the Stars" lecture series, hosted at Brackenridge Field Laboratory in Austin, TX (2024). Check out the [Youtube channel](https://www.youtube.com/channel/UCWzqQVwdRGlzmWEhJnHcfKw).
+**Amazing adaptations under the sea: Nature’s genetic toolbox for coral reef restoration,** Speaker at the "Science Under the Stars" lecture series, hosted at Brackenridge Field Laboratory in Austin, TX (2024). Check out the recording on [Youtube].(https://www.youtube.com/channel/UCWzqQVwdRGlzmWEhJnHcfKw).
 
 <p>&nbsp;</p>
 
