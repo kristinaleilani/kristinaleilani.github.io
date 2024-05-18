@@ -5,7 +5,7 @@ description:
 featured_image: /images/GBR_overheadshot.JPG
 ---
 
-**Black, K. L.**, Liu, K., Graham, J., Wiley, T., Gardiner, J., MacDonald, C., & Matz, M.K. (2024). Unidirectional gene flow from the Gulf of Mexico to the Atlantic Ocean in bonnethead sharks (_Sphyrna tiburo_). Under review. Preprint coming soon.
+**Black, K. L.**, Liu, K., Graham, J., Wiley, T., Gardiner, J., MacDonald, C., & Matz, M.K. (2024). Unidirectional gene flow from the Gulf of Mexico to the Atlantic Ocean in bonnethead sharks (_Sphyrna tiburo_). Under review. Preprint DOI: [10.22541/au.171601453.30685555/v1](https://www.authorea.com/users/562112/articles/943779-unidirectional-gene-flow-from-the-gulf-of-mexico-to-the-atlantic-ocean-in-bonnethead-sharks-sphyrna-tiburo)
 
 <p>&nbsp;</p>
 
