@@ -5,7 +5,7 @@ description:
 featured_image: /images/GBR_overheadshot.JPG
 ---
 
-Cabacungan, G. N., Waduwara-Kankana, T. N., Azam, A. F., Collins, M. R., Arriata, A. R., Matz, M. V., & **Black, K. L.** (2024). Cryptic coral community composition across environmental gradients. In submission, Preprint coming soon!
+Cabacungan, G. N., Waduwara-Kankana, T. N., Azam, A. F., Collins, M. R., Arriata, A. R., Matz, M. V., & **Black, K. L.** (2024). Cryptic coral community composition across environmental gradients. Under review, Preprint coming soon!
 
 <p>&nbsp;</p>
 
