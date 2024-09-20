@@ -1,6 +1,6 @@
 ---
 title: Welcome!
-subtitle: My dissertation research focuses on evolutionary responses of coral to their environment. However, I am broadly interested in the adaptive potential of wildlife to respond to global change. I'm always glad to talk about research, fieldwork, conservation, and increasing DEI in STEM.
+subtitle: My research focuses on evolutionary responses of marine species to their environment. However, I am broadly interested in the adaptive potential of wildlife to respond to global change. I'm always glad to talk about research, fieldwork, conservation, and increasing DEI in STEM.
 description: 
 featured_image: /images/Apal_CaneBay.jpg
 ---
@@ -12,8 +12,8 @@ featured_image: /images/Apal_CaneBay.jpg
 
 ## Education
 
-PhD Candidate (expected 2024) in the [Matz Lab](https://matzlab.weebly.com/) at the University of Texas at Austin
-* Dissertation topic: Environmental drivers of genetic adaptation in corals
+Ph.D. (2024) in the [Matz Lab](https://matzlab.weebly.com/) at the University of Texas at Austin
+* Dissertation topic: Population genomics of corals and sharks
 
 
 M.S. (2017) in Wildlife Ecology from the University of Wisconsin-Madison
