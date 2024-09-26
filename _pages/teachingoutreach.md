@@ -19,7 +19,7 @@ _Pictured above: A view of the University of Texas at Austin from the roof of Pa
 
 Teaching Assistant for 5 semesters of upper-division undergraduate course at the University of Texas at Austin.
 
-I teach laboratory procedures such as:
+I taught the following laboratory procedures:
 
 * _Drosophila_ crosses
 * DNA and protein extraction
@@ -57,7 +57,7 @@ I led discussions on:
 
 **Research mentor**
 
-Currently mentoring six undergraduate students in a collaborative research project on coral adaptation. I train my students in all research skills- including genetics lab procedures, bioinformatics pipelines, population genetics analyses in R, and scientific writing- with the intent that all students will be co-authors of the resulting manuscript.
+I mentored six undergraduate students in a collaborative research project on coral adaptation. I trained my students in all research skills- including genetics lab procedures, bioinformatics pipelines, population genetics analyses in R, and scientific writing- and all students became lead co-authors of the resulting manuscript.
 
 <p>&nbsp;</p>
 
@@ -103,7 +103,7 @@ I've also trained and supervised interns and volunteers in various field methods
 
 <p>&nbsp;</p>
 
-**Coral biology and reef restoration,** Speaker at a workshop for high schoolers through the [Orutsararmiut Native Council](https://orutsararmiut.org/) in Bethel, AK (2021).
+**Coral biology and reef restoration,** Speaker at a workshop for high schoolers through the [Orutsararmiut Native Council](https://orutsararmiut.org/) in Bethel, Alaska (2021).
 
 <div class="gallery" data-columns="1">
 	<img src="/images/SCTLD_treating.JPG">
