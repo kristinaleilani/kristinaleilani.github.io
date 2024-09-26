@@ -44,7 +44,7 @@ _Pictured above: Map of the yearly range of total nitrogen in the Florida Keys[^
 
 ### Seascape genomics in St. Croix, USVI
 
-I am now teaching genotype-environment analyses using a new dataset of six coral species from St. Croix, USVI. Under my supervision, this project is being led by six undergraduates at UT-Austin, each conducting an independent analysis of their own species of coral. This project provides an opportunity for students to be fully involved in research with an opportunity for co-authorship in the end. This work is funded by [The Nature Conservancy](https://www.nature.org/en-us/about-us/where-we-work/caribbean/virgin-islands/).
+From 2022-2024, I taught genotype-environment analyses using a dataset of six coral species from St. Croix, USVI. Under my supervision, this project was led by six undergraduates at UT-Austin, each conducting an independent analysis of their own species of coral. This project provided an opportunity for students to be fully involved in research- from genetic laboratory methods to bioinformatics pipelines to data visualization in R to writing a scientific manuscript with lead author roles in the end. This work was funded by [The Nature Conservancy](https://www.nature.org/en-us/about-us/where-we-work/caribbean/virgin-islands/), and this manuscript is currently in revision. Stay tuned!
 
 <div class="gallery" data-columns="1">
 	<img src="/images/The_wall.JPG">
