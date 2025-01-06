@@ -5,17 +5,7 @@ description:
 featured_image: /images/GBR_overheadshot.JPG
 ---
 
-Cabacungan, G. N., Waduwara-Kankana, T. N., Azam, A. F., Collins, M. R., Arriata, A. R., Matz, M. V., & **Black, K. L.** (2024). Cryptic coral community composition across environmental gradients. Under review, Preprint coming soon!
-
-<p>&nbsp;</p>
-
-**Black, K. L.**, Bay, L. K., & Matz, M.K. (2024). A genetic variant of delta-9 desaturase is associated with thermal tolerance in a coral from the Great Barrier Reef. Under review. Preprint DOI: [10.22541/au.170997233.30665458/v1](https://advance.sagepub.com/doi/full/10.22541/au.170997233.30665458/v1)
-
-<p>&nbsp;</p>
-
-**Black, K. L.**, Rippe, J.P., & Matz, M.K. (2023).
-Environmental drivers of genetic adaptation in Florida corals. In revision.
-Preprint DOI: [10.22541/au.166997531.17274551/v1](https://www.authorea.com/doi/full/10.22541/au.166997531.17274551/v1)
+**Black, K. L.**, Bay, L. K., & Matz, M.K. (2024). A genetic variant of delta-9 desaturase is associated with thermal tolerance in a coral from the Great Barrier Reef. Molecular Ecology, e17634. [https://doi.org/10.1111/mec.17634](https://doi.org/10.1111/mec.17634)
 
 <p>&nbsp;</p>
 
@@ -57,4 +47,24 @@ squirrels. Food Webs, 21, e00124. [https://doi.org/10.1016/j.fooweb.2019.e00124]
 vicariant red fox (_Vulpes vulpes_) populations. Journal of Mammalogy, 99(5), e2205v1. [https://doi.org/10.1093/jmammal/gyy096](https://doi.org/10.1093/jmammal/gyy096)
 
 <p>&nbsp;</p>
+
+
+
+---
+subtitle: Preprints
+---
+
+Matz, M.K. & **Black, K. L.** (2024).
+RDAforest: identifying environmental drivers of polygenic adaptation. In review.
+Preprint DOI: [bioRxiv, 2024.10. 21.619525](https://www.biorxiv.org/content/10.1101/2024.10.21.619525v1.abstract)
+
+<p>&nbsp;</p>
+
+Cabacungan, G. N., Waduwara-Kankana, T. N., Azam, A. F., Collins, M. R., Arriata, A. R., Matz, M. V., & **Black, K. L.** (2024). Cryptic coral community composition across environmental gradients. Under review, Preprint coming soon!
+
+<p>&nbsp;</p>
+
+**Black, K. L.**, Rippe, J.P., & Matz, M.K. (2023).
+Environmental drivers of genetic adaptation in Florida corals. In revision.
+Preprint DOI: [10.22541/au.166997531.17274551/v1](https://www.authorea.com/doi/full/10.22541/au.166997531.17274551/v1)
 
