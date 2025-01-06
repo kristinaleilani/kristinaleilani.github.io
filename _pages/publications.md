@@ -51,7 +51,7 @@ vicariant red fox (_Vulpes vulpes_) populations. Journal of Mammalogy, 99(5), e2
 
 
 ---
-subtitle: Preprints
+**Preprints**
 ---
 
 Matz, M.K. & **Black, K. L.** (2024).
