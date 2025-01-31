@@ -1,6 +1,6 @@
 ---
 title: Welcome!
-subtitle: My research focuses on evolutionary responses of marine species to their environment. However, I am broadly interested in the adaptive potential of wildlife to respond to global change. I'm always glad to talk about research, fieldwork, conservation, and increasing DEI in STEM.
+subtitle: My research focuses on evolutionary responses of marine species to their environment. However, I am broadly interested in the adaptive potential of wildlife to respond to global change. I'm always glad to talk about research, fieldwork, and conservation.
 description: 
 featured_image: /images/Apal_CaneBay.jpg
 ---
