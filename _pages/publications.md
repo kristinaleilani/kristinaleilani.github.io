@@ -5,6 +5,10 @@ description:
 featured_image: /images/GBR_overheadshot.JPG
 ---
 
+Cabacungan, G. N., Waduwara-Kankana, T. N., Azam, A. F., Collins, M. R., Arriata, A. R., Matz, M. V., & **Black, K. L.** (2025). Cryptic coral community composition across environmental gradients. PLoS ONE 20(2): e0318653. [https://doi.org/10.1371/journal.pone.0318653](https://doi.org/10.1371/journal.pone.0318653)
+
+<p>&nbsp;</p>
+
 **Black, K. L.**, Bay, L. K., & Matz, M.K. (2024). A genetic variant of delta-9 desaturase is associated with thermal tolerance in a coral from the Great Barrier Reef. Molecular Ecology, e17634. [https://doi.org/10.1111/mec.17634](https://doi.org/10.1111/mec.17634)
 
 <p>&nbsp;</p>
@@ -55,12 +59,8 @@ vicariant red fox (_Vulpes vulpes_) populations. Journal of Mammalogy, 99(5), e2
 ---
 
 Matz, M.K. & **Black, K. L.** (2024).
-RDAforest: identifying environmental drivers of polygenic adaptation. In review.
+RDAforest: identifying environmental drivers of polygenic adaptation. In revision.
 Preprint DOI: [bioRxiv, 2024.10. 21.619525](https://www.biorxiv.org/content/10.1101/2024.10.21.619525v1.abstract)
-
-<p>&nbsp;</p>
-
-Cabacungan, G. N., Waduwara-Kankana, T. N., Azam, A. F., Collins, M. R., Arriata, A. R., Matz, M. V., & **Black, K. L.** (2024). Cryptic coral community composition across environmental gradients. Under review, Preprint coming soon!
 
 <p>&nbsp;</p>
 
