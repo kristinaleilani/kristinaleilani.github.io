@@ -33,6 +33,8 @@ This work is funded by [The Nature Conservancy](https://www.nature.org/en-us/abo
 
 Thermally induced coral bleaching is a major cause of reef decline in the Great Barrier Reef of Australia. However, the diversity of reef environments could already be a source of thermally adaptive genetic variants. I am exploring genes under selection across a latitudinal gradient in the Great Barrier Reef to identify genes that may be important for thermal regulation in corals. I am also evaluating the importance of putatively adaptive genes through changes in gene expression from a reciprocal transplant experiment across latitudes.
 
+This work is now published in [Molecular Ecology.]( https://doi.org/10.1111/mec.17634)
+
 ---
 
 ### Broader impacts
