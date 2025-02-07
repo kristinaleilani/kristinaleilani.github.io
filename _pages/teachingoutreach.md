@@ -57,7 +57,7 @@ I led discussions on:
 
 **Research mentor**
 
-I mentored six undergraduate students in a collaborative research project on coral adaptation. I trained my students in all research skills- including genetics lab procedures, bioinformatics pipelines, population genetics analyses in R, and scientific writing- and all students became lead co-authors of the resulting manuscript.
+I mentored five undergraduate students in a collaborative research project on coral adaptation. I trained my students in all research skills- including genetics lab procedures, bioinformatics pipelines, population genetics analyses in R, and scientific writing- and all students became lead authors of [the resulting manuscript].(https://doi.org/10.1371/journal.pone.0318653)
 
 <p>&nbsp;</p>
 
@@ -80,6 +80,12 @@ I've also trained and supervised interns and volunteers in various field methods
 
 
 ## Outreach
+
+### Note: I have a polished coral restoration talk ready for any outreach opportunity. Please reach out if interested!
+
+<p>&nbsp;</p>
+
+**A Western-Indigenous collaborative approach to climate adaptation research,** Invited speaker at the Heather Lazrus Symposium at the [American Meteorological Society](https://www.ametsoc.org/index.cfm/ams/) meeting in New Orleans, LA.
 
 <p>&nbsp;</p>
 
