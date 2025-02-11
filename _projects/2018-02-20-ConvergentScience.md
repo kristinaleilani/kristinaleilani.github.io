@@ -1,12 +1,12 @@
 ---
 title: 'Convergent Science'
 subtitle: ''
-date: 2022-02-20 00:00:00
+date: 2024-02-20 00:00:00
 description: Co-producing research on climate adaptation with Indigenous communities in Alaska
-featured_image: '/images/ELP_closeshot.jpg'
+featured_image: ''
 ---
 
-![](/images/ELP_closeshot.jpg)
+![]()
 
 _Pictured above: N.S.F. National Center for Atmospheric Research in Boulder, Colorado_
 
