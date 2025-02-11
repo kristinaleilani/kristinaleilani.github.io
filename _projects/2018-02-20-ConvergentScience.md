@@ -6,10 +6,6 @@ description: Co-producing research on climate adaptation with Indigenous communi
 featured_image: '/images/AKlandscape.jpg'
 ---
 
-![]()
-
-_Pictured above: N.S.F. National Center for Atmospheric Research in Boulder, Colorado_
-
 
 
 ## Rising Voices, Changing Coasts
