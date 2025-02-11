@@ -29,7 +29,9 @@ Our primary issues of concern incude:
 
 <p>&nbsp;</p>
 
-If you are interested in contributing to our growing knowledgebase of resources, we'd love to work with you. Please email me or the chapter at icrs.students@gmail.com
+If you are interested in contributing to our growing knowledgebase of resources, we'd love to work with you. Please the chapter at icrs.students@gmail.com. 
+
+*Note: As of 2024, I stepped down as committee lead to focus on similar efforts in Arctic research that align with my current postdoctoral position.*
 
 ---
 
@@ -57,6 +59,7 @@ Since 2022, I joined the DEI committee for the [Department of Integrative Biolog
 
 In 2023 I also joined the DEI committee for the [College of Natural Sciences](https://cns.utexas.edu/) at UT-Austin, and I look forward to expanding DEI work across the broader college.
 
+*Note: In compliance with current political actions, these committees no longer exist.*
 
 ---
 
