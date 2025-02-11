@@ -31,7 +31,7 @@ _Pictured above: Range of depths inhabited by each genetic lineage for two coral
 
 ### Adaptation to water quality gradients within cryptic lineages
 
-Surprisingly, the cryptic lineages within each species also appear to adapt to local environments on their own. In _A. agaricites_, nitrogen and cold temperatures appear to drive divergence within lineages. While in _P. astreoides_, cold temperatures also appear to be an important driver. 
+Surprisingly, the cryptic lineages within each species also appear to adapt to local environments on their own. In _A. agaricites_, nitrogen and cold temperatures appear to drive divergence within lineages. While in _P. astreoides_, cold temperatures also appear to be an important driver. You can view a preprint of this work [HERE](https://www.authorea.com/doi/full/10.22541/au.166997531.17274551).
 
 <div class="gallery" data-columns="1">
 	<img src="/images/TNByearly_range.png">
@@ -44,7 +44,7 @@ _Pictured above: Map of the yearly range of total nitrogen in the Florida Keys[^
 
 ### Seascape genomics in St. Croix, USVI
 
-From 2022-2024, I taught genotype-environment analyses using a dataset of six coral species from St. Croix, USVI. Under my supervision, this project was led by five undergraduates at UT-Austin, each conducting an independent analysis of their own species of coral. This project provided an opportunity for students to be fully involved in research- from genetic laboratory methods to bioinformatics pipelines to data visualization in R to writing a scientific manuscript with lead author roles in the end. This work was funded by [The Nature Conservancy](https://www.nature.org/en-us/about-us/where-we-work/caribbean/virgin-islands/), and is published in [PloS One.](https://doi.org/10.1371/journal.pone.0318653)
+From 2022-2024, I taught genotype-environment analyses using a dataset of six coral species from St. Croix, USVI. Under my supervision, this project was led by five undergraduates at UT-Austin, each conducting an independent analysis of their own species of coral. This project provided an opportunity for students to be fully involved in research- from genetic laboratory methods to bioinformatics pipelines to data visualization in R to writing a scientific manuscript with lead author roles in the end. This work was funded by [The Nature Conservancy](https://www.nature.org/en-us/about-us/where-we-work/caribbean/virgin-islands/), and is now published in [PloS One.](https://doi.org/10.1371/journal.pone.0318653)
 
 <div class="gallery" data-columns="1">
 	<img src="/images/The_wall.JPG">
