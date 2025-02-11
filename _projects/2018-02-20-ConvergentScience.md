@@ -1,7 +1,7 @@
 ---
 title: 'Convergent Science'
 subtitle: ''
-date: 2024-02-20 00:00:00
+date: 2017-02-20 00:00:00
 description: Co-producing research on climate adaptation with Indigenous communities in Alaska
 featured_image: '/images/AKlandscape.jpg'
 ---
