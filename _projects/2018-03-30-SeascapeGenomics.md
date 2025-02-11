@@ -56,4 +56,6 @@ _Photo 1: "The Wall" at Cane Bay, Photo 2: Isaac's Bay in St. Croix, USVI_
 
 ## Broader impacts
 
-Local adaptation can determine the stress response and fitness of coral outplants. Therefore, environmental gradients driving genetic divergence can impose strong selective pressure on outplanted corals. Defining environmental barriers is the first step to matching outplanted corals to the sites where they’re most likely to survive.
+Local adaptation can determine the stress response and fitness of coral outplants. Therefore, environmental gradients driving genetic divergence can impose strong selective pressure on outplanted corals. Defining environmental barriers is the first step to matching outplanted corals to the sites where they’re most likely to survive. 
+
+Furthermore, as seascape genomics is a rapidly advancing field, we are actively developing new methods to identify environmental drivers of genetic adaptation. See our preprint [HERE](https://www.biorxiv.org/content/10.1101/2024.10.21.619525v1).
