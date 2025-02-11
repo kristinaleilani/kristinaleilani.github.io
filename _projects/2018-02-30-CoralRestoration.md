@@ -2,7 +2,7 @@
 title: 'Coral restoration'
 subtitle: ''
 date: 2022-02-30 00:00:00
-description: Finding adaptive genetic variants for assissted gene flow in the Caribbean and Australia
+description: Finding adaptive genetic variants for assisted gene flow in the Caribbean and Australia
 featured_image: '/images/ELP_closeshot.jpg'
 ---
 
