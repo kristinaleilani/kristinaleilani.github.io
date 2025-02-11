@@ -13,7 +13,7 @@ _Pictured above: Leading a DEI workshop at the 2022 ICRS conference in Bremen, G
 
 ## International Coral Reef Society (ICRS) 
 
-In 2020, I co-founded the equity, diversity, and inclusion committee of the [Student and Early Career Chapter](https://www.coralreefstudents.org/) of [ICRS](http://coralreefs.org/) with other graduate students researching coral across the globe. We developed original [purpose and philosophy  statements](https://www.coralreefstudents.org/edi) that constitute our chapter’s stance on DEI issues. We are currently developing workshops and informative materials for disseminating opportunities and resources to increase participation and recognition of underrepresented minorities in coral science.
+In 2020, I co-founded the equity, diversity, and inclusion committee of the [Student and Early Career Chapter](https://coralreefsecc.org/) of [ICRS](http://coralreefs.org/) with other graduate students researching coral across the globe. We developed original [purpose and philosophy  statements](https://coralreefsecc.org/edi-spd) that constitute our chapter’s stance on DEI issues. We are currently developing workshops and informative materials for disseminating opportunities and resources to increase participation and recognition of underrepresented minorities in coral science.
 
 <p>&nbsp;</p>
 
