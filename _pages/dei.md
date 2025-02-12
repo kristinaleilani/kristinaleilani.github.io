@@ -32,6 +32,7 @@ Our primary issues of concern incude:
 
 If you are interested in contributing to our growing knowledgebase of resources, we'd love to work with you. Please email the chapter at icrs.students@gmail.com. 
 
+
 <sub>*Note: As of 2024, I stepped down as committee lead to focus on similar efforts in Arctic research that align with my current postdoctoral position.*<sub>
 
 ---
