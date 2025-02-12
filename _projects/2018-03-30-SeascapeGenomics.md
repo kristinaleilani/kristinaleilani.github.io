@@ -6,6 +6,16 @@ description: Exploring genotype-environment associations for multiple coral spec
 featured_image: '/images/Seascape.JPG'
 ---
 
+Seascape/landscape genomics aims to:
+* identify environmental drivers of genetic adaptation
+* predict where differentially-adapted individuals occur
+* predict sites that are at most risk due to changing enviromental conditions
+* plan assisted gene flow efforts
+* identify genetic variants associated with environmental differences
+
+This field is rapidly advancing, and we are actively developing new methods to identify genotype-environment associations. See our preprint of our new method RDA-Forest [HERE](https://www.biorxiv.org/content/10.1101/2024.10.21.619525v1). Applications of this method are detailed below.
+
+
 ![](/images/FLKeys_bathymetry.png)
 
 ### Cryptic genetic divergence in the Florida Keys
@@ -57,5 +67,3 @@ _Photo 1: "The Wall" at Cane Bay, Photo 2: Isaac's Bay in St. Croix, USVI_
 ## Broader impacts
 
 Local adaptation can determine the stress response and fitness of coral outplants. Therefore, environmental gradients driving genetic divergence can impose strong selective pressure on outplanted corals. Defining environmental barriers is the first step to matching outplanted corals to the sites where they’re most likely to survive. 
-
-Furthermore, as seascape genomics is a rapidly advancing field, we are actively developing new methods to identify environmental drivers of genetic adaptation. See our preprint [HERE](https://www.biorxiv.org/content/10.1101/2024.10.21.619525v1).
