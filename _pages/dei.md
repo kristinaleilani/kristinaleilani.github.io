@@ -4,7 +4,9 @@ subtitle: My personal experiences as a racial and gender minority in STEM ground
 description: 
 featured_image: /images/ICRS22.jpeg
 ---
-<sub>*Note: I have not received any payment for this work, nor have I used grants to support it. All the work described on this page has been done voluntarily in my spare time.*<sub>
+<sub><sup>*Note: I have not received any payment for this work, nor have I used grants to support it. All the work described on this page has been done voluntarily in my spare time.*<sub><sup>
+
+&nbsp;
 
 # Committees and working groups
 
@@ -32,8 +34,9 @@ Our primary issues of concern incude:
 
 If you are interested in contributing to our growing knowledgebase of resources, we'd love to work with you. Please email the chapter at icrs.students@gmail.com. 
 
+&nbsp;
 
-<sub>*Note: As of 2024, I stepped down as committee lead to focus on similar efforts in Arctic research that align with my current postdoctoral position.*<sub>
+<sub><sup>*Note: As of 2024, I stepped down as committee lead to focus on similar efforts in Arctic research that align with my current postdoctoral position.*<sub><sup>
 
 ---
 
@@ -61,7 +64,7 @@ Since 2022, I joined the DEI committee for the [Department of Integrative Biolog
 
 In 2023 I also joined the DEI committee for the [College of Natural Sciences](https://cns.utexas.edu/) at UT-Austin, and I look forward to expanding DEI work across the broader college.
 
-<sub>*Note: In compliance with current political actions, these committees no longer exist.*<sub>
+<sub><sup>*Note: In compliance with current political actions, these committees no longer exist.*<sub><sup>
 
 ---
 
