@@ -9,7 +9,7 @@ featured_image: '/images/Seascape.JPG'
 Seascape/landscape genomics aims to:
 * identify environmental drivers of genetic adaptation
 * predict where differentially-adapted individuals occur
-* predict sites that are at most risk due to changing enviromental conditions
+* predict sites with high-risk populations due to changing enviromental conditions
 * plan assisted gene flow efforts
 * identify genetic variants associated with environmental differences
 
