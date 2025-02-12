@@ -1,6 +1,6 @@
 ---
 title: Diversity, equity, and inclusion
-subtitle: My personal experiences as a racial and gender minority in STEM ground my empathy toward other historically-marginalized scientists. I am committed to combating inequality and prejudice in STEM and supporting underrepresented minorities through mentoring, networking, and activism.
+subtitle: My personal experiences as a racial and gender minority in STEM ground my empathy toward other historically-marginalized scientists. I am committed to combating inequality and prejudice in STEM and supporting underrepresented minorities through mentoring, networking, and activism. <sub>*Note: I have not received any payment for this work, nor have I used grants to support it. All the work described on this page has been done voluntarily in my spare time.*<sub>
 description: 
 featured_image: /images/ICRS22.jpeg
 ---
