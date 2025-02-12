@@ -1,6 +1,6 @@
 ---
 title: 'Seascape genomics'
-subtitle: 'Environmental gradients driving genetic divergence'
+subtitle: ''
 date: 2022-03-30 00:00:00
 description: Exploring genotype-environment associations for multiple coral species in Florida and the Caribbean
 featured_image: '/images/Seascape.JPG'
