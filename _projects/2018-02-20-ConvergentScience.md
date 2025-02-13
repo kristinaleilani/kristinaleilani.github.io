@@ -6,7 +6,11 @@ description: Co-producing research on climate adaptation with Indigenous communi
 featured_image: '/images/AKlandscape.jpg'
 ---
 
+![](/images/NCAR.jpg)
 
+_Pictured above: A view of the National Science Foundation National Center for Atmospheric Research (NSF NCAR) in Boulder, Colorado_
+
+<p>&nbsp;</p>
 
 ## Rising Voices, Changing Coasts
 
