@@ -68,3 +68,19 @@ Preprint DOI: [bioRxiv, 2024.10. 21.619525](https://www.biorxiv.org/content/10.1
 Environmental drivers of genetic adaptation in Florida corals. In revision.
 Preprint DOI: [10.22541/au.166997531.17274551/v1](https://www.authorea.com/doi/full/10.22541/au.166997531.17274551/v1)
 
+
+
+
+---
+**Books/Theses**
+---
+
+**Black, K. L.** (2024).
+Genomic exploration of coral and shark populations across seascape gradients. Doctoral dissertation. University of Texas at Austin. [https://doi.org/10.26153/tsw/58455](https://doi.org/10.26153/tsw/58455)
+
+<p>&nbsp;</p>
+
+**Black, K. L.** (2018).
+The Great Lakes region is a melting pot for vicariant red fox (Vulpes vulpes) populations through natural expansion and fur-farm translocations. Master's thesis. University of Wisconsin-Madison. [Access here](https://search.library.wisc.edu/catalog/9912460079102121)
+
+
