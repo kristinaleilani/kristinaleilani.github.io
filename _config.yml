@@ -3,6 +3,8 @@ site: Kristina Leilani Black, PhD
 url: https://kristinaleilani.github.io/
 baseurl: 
 
+description: "Population genomics applied to wildlife conservation"
+
 collections:
   pages:
     output: true
