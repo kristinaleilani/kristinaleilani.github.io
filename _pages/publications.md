@@ -5,6 +5,14 @@ description:
 featured_image: /images/GBR_overheadshot.JPG
 ---
 
+**Black, K. L.**, Rippe, J.P., & Matz, M.K. (2025). Environmental drivers of genetic divergence in two corals from the Florida Keys. Evolutionary Applications 18(7):e70126. [https://doi.org/10.1111/eva.70126](https://doi.org/10.1111/eva.70126)
+
+<p>&nbsp;</p>
+
+Matz, M.K. & **Black, K. L.** (2025). RDAforest: identifying environmental drivers of polygenic adaptation. Molecular Ecology Resources, e70002. [https://doi.org/10.1111/1755-0998.70002](https://doi.org/10.1111/1755-0998.70002)
+
+<p>&nbsp;</p>
+
 Cabacungan, G. N., Waduwara-Kankana, T. N., Azam, A. F., Collins, M. R., Arriata, A. R., Matz, M. V., & **Black, K. L.** (2025). Cryptic coral community composition across environmental gradients. PLoS ONE 20(2): e0318653. [https://doi.org/10.1371/journal.pone.0318653](https://doi.org/10.1371/journal.pone.0318653)
 
 <p>&nbsp;</p>
@@ -51,24 +59,6 @@ squirrels. Food Webs, 21, e00124. [https://doi.org/10.1016/j.fooweb.2019.e00124]
 vicariant red fox (_Vulpes vulpes_) populations. Journal of Mammalogy, 99(5), e2205v1. [https://doi.org/10.1093/jmammal/gyy096](https://doi.org/10.1093/jmammal/gyy096)
 
 <p>&nbsp;</p>
-
-
-
----
-**Preprints**
----
-
-Matz, M.K. & **Black, K. L.** (2024).
-RDAforest: identifying environmental drivers of polygenic adaptation. In revision.
-Preprint DOI: [bioRxiv, 2024.10. 21.619525](https://www.biorxiv.org/content/10.1101/2024.10.21.619525v1.abstract)
-
-<p>&nbsp;</p>
-
-**Black, K. L.**, Rippe, J.P., & Matz, M.K. (2023).
-Environmental drivers of genetic adaptation in Florida corals. In revision.
-Preprint DOI: [10.22541/au.166997531.17274551/v1](https://www.authorea.com/doi/full/10.22541/au.166997531.17274551/v1)
-
-
 
 
 ---
